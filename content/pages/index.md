@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Enterprise data exchange without worries
     content: >
-      Bitdomains are secure two-way APIs between your data and others who need
-      access to it
+      Bitdomains are a secure cloud data sharing and management space between
+      your systems and other parties that need data
     actions:
       - label: Learn More
         url: /features

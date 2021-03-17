@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Enterprise data exchange without worries
+    title: Enterprise data sharing without worries
     content: >
       Bitdomains are a secure cloud data sharing and management spaces between
       your systems and other parties that need data

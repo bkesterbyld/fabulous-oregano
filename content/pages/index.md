@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Enterprise data exchange without worries
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Bitdomains are secure two-way APIs between your data and others who need
+      access to it
     actions:
       - label: Learn More
         url: /features

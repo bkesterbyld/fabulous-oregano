@@ -20,7 +20,7 @@ sections:
       Create real-time, intelligent data interchange with developers, partners
       and vendors without exposing your systems
     features:
-      - title: Global Multidata Storage
+      - title: Publish and Mix Data Between Parties
         image: images/multidata.png
         image_alt: App preview on a phone and tablet
         content: >

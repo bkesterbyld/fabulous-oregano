@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: >-
-  We're advanced problem solvers making difficult and techinical computing tasks
+  We're advanced problem solvers making difficult, techinical computing tasks
   easy for anybody
 image: images/20161201_162410_001.jpg
 image_alt: Team members in a conference room

@@ -62,7 +62,9 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: 'Exchange critical data with developers, partners'
+    title: >-
+      Exchange and collaborate on critical data with developers, partners and
+      vendors
   - section_id: reviews
     type: section_reviews
     background: white

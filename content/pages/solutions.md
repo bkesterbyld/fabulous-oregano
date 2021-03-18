@@ -7,7 +7,7 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Solutions
-    content: >+
+    content: >
       **Supply Chain**
 
 
@@ -34,12 +34,11 @@ sections:
 
       **Agency Collaboration**
 
+
+
       e-commerce leaders use bitdomains to get data to external agencies that
       are developing and maintaing corporate web  and marketing sites that need
       company data.
-
-
-
     actions:
       - label: Free Trial
         url: /signup

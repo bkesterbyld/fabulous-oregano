@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/bitdomain-explainer.png
+    image: images/bitdomain-explainer1.png
     image_alt: App preview
     title: 'Zero trust, zero worry enterprise data exchange'
     content: >
@@ -49,7 +49,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: 'Replicate views, manage access & monitor'
+      - title: 'Syndicate, secure and monitor'
         image: images/secure-cloud-data-storage.png
         image_alt: App user profile preview
         content: >

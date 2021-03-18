@@ -5,10 +5,11 @@ sections:
     type: section_hero
     image: images/bitdomain-explainer1.png
     image_alt: App preview
-    title: Democratize real time data without worry
+    title: Democratize real time data without hassle or worry
     content: >
       Trade real time data with with internal and external parties without
-      exposing your core data, APIs or DB credentials to any person or system
+      exposing your production data, APIs or DB credentials to any person or
+      system
     actions:
       - label: Learn More
         url: /features
@@ -24,8 +25,8 @@ sections:
         image: images/publish.png
         image_alt: App preview on a phone and tablet
         content: >
-          Rapidly model structured or unstructured data between parties with
-          easy no code tools, then push it into a Bitdomain via API or our
+          Rapidly the model structured or unstructured data you want to share
+          with easy no code tools, then push it into a Bitdomain via API or our
           integration partners. Behind the scenes, we put this intermediate data
           in safe and reliable SQL, NoSQL and object stores across a global
           network of cloud providers.
@@ -55,8 +56,9 @@ sections:
         image_alt: App user profile preview
         content: >
           Data sets can be replicated for different data consumers and put
-          wherever they are needed globally—with unique API keys available down
-          to the field and logic command level.
+          wherever they are needed globally. You can select from granular API
+          key options including controlling access by data sets, fields, logic
+          commands and by time windows.
         actions:
           - label: Learn More
             url: /features
@@ -64,11 +66,11 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: 'Create a zero trust, real time data DMZ'
+    title: Create a zero trust cloud data DMZ
   - section_id: call-to-action
     type: section_cta
     title: Ready to learn more?
-    subtitle: Drop us a line for ore information or a demo
+    subtitle: Drop us a line for more information or a demo
     actions:
       - label: Get Started
         url: /signup

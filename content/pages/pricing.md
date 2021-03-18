@@ -75,7 +75,7 @@ sections:
         answer: >
           A user is any person or system that needs to login in to your
           bitdomain(s). 
-    subtitle: 'Let us know if you have more '
+    subtitle: Let us know if you have more at help@bitdomain.dev
 seo:
   title: Pricing
   description: This is the pricing page

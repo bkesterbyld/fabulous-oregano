@@ -62,7 +62,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: Zero trust APIs for your systems and applications
+    title: Syndicate
   - section_id: reviews
     type: section_reviews
     background: white

@@ -5,7 +5,7 @@
     "palette": "orange",
     "header": {
         "logo_img": "images/bd-logo1.png",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "Bitdomain Secure Cloud Storage",
         "has_nav": true,
         "nav_links": [
             {

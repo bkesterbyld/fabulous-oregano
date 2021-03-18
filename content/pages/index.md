@@ -22,7 +22,7 @@ sections:
       anybody----without giving direct database access or sharing DB credentials
       to untrusted systems
     features:
-      - title: The Best Feature of Your Services
+      - title: Multidata
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-

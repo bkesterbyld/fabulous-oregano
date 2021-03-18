@@ -63,7 +63,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: Data
+    title: 1+1 = 3
   - section_id: reviews
     type: section_reviews
     background: white

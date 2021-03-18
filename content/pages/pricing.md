@@ -12,7 +12,7 @@ sections:
         price: free
         details: |
           *   1 bitdomain
-          *   20 data sets
+          *   10 data sets
           *   2 users
           *   100,000 rows
           *   Rolling 30 day retention

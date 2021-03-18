@@ -17,8 +17,8 @@ sections:
     type: section_features
     background: gray
     subtitle: >-
-      Exchange and manipulate data with anyone, without giving untrusted actors
-      direct access to your systems
+      Bitdomains scale from simple data transfer to intermediary backends that
+      can directly power new applications
     features:
       - title: Multidata Storage & Management
         image: images/feature1.png

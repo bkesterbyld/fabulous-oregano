@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/bitdomain-explainer1.png
     image_alt: App preview
-    title: 'Zero Trust, Multiparty Data Exchange'
+    title: 'Zero Trust, Multiparty Data Exchanges'
     content: >
       Bitdomains are secure cloud storage and processing spaces between your
       applications and others parties that you trade data with.

@@ -8,7 +8,7 @@ sections:
     title: Share enterprise data without worries
     content: >
       Trade real-time data with developers, partners and vendors without
-      exposing your primary data, APIs or DB credentials to anyone
+      exposing your primary data, APIs or DB credentials to any person or system
     actions:
       - label: Learn More
         url: /features

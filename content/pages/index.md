@@ -17,10 +17,9 @@ sections:
     type: section_features
     background: gray
     subtitle: >-
-      Bitdomains allow you to publish data sets, reshape the data with our logic
-      tools, and provide fine-grained access and manipulation API keys to
-      anybody without giving direct database access or sharing DB credentials to
-      untrusted actors
+      Bitdomains allow you to publish data sets, process them and provide
+      granularaccess and manipulation API keys to anybody... all without giving
+      untrusted actors direct access
     features:
       - title: Multidata Storage & Management
         image: images/feature1.png

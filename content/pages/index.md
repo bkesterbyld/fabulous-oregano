@@ -50,7 +50,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: 'Customized views, access control and APIs'
-        image: images/feature3.png
+        image: images/secure-cloud-data-storage.png
         image_alt: App user profile preview
         content: >
           Data sets can be replicated for different data consumers, with unique

@@ -6,11 +6,9 @@ sections:
     image: images/bitdomain-explainer1.png
     image_alt: App preview
     title: Secure Cloud Data Interchange
-    content: >+
-      Create real-time, intelligent data interchanges with other developers,
-      partners and vendors without exposing your primary data, APIs or DB
-      credentials to anyone
-
+    content: >
+      Share real-time data with other developers, partners and vendors without
+      exposing your primary data, APIs or DB credentials to anyone
     actions:
       - label: Learn More
         url: /features

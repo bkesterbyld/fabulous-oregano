@@ -35,7 +35,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Enrich
+      - title: Enrich & Analyze
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >

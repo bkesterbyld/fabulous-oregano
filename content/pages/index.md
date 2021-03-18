@@ -55,8 +55,8 @@ sections:
         content: >
           Data sets can be replicated for different data consumers, with unique
           API keys generated down to the field and logic command level.
-          Additionally, anybody with access can can login to view, search and
-          manage data through browser views.
+          Additionally, anybody with proper access can can login to view, search
+          and manage data through browser views.
         actions:
           - label: Learn More
             url: /features

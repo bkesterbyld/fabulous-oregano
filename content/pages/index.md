@@ -5,10 +5,10 @@ sections:
     type: section_hero
     image: images/bitdomain-explainer1.png
     image_alt: App preview
-    title: Share enterprise data without worries
+    title: Democratize real time data without worry
     content: >
-      Trade real-time data with developers, partners and vendors without
-      exposing your primary data, APIs or DB credentials to anyone
+      Trade real time data with with internal and external parties without
+      exposing your core data, APIs or DB credentials to any person or system
     actions:
       - label: Learn More
         url: /features
@@ -18,7 +18,7 @@ sections:
     background: gray
     subtitle: >-
       Bitdomains are secure cloud storage and processing spaces between your
-      applications and others parties that you trade data with
+      applications and other people and systems that need data
     features:
       - title: Publish and Mix Data Between Parties
         image: images/publish.png
@@ -41,8 +41,8 @@ sections:
         image_alt: App users welcoming a new member
         content: >
           Create no code logic agents that transform, aggregate and analyze data
-          in real-time. They act upon incoming data and events, or can be set to
-          run on timers.
+          in real-time. They act instantly upon incoming data and events, or can
+          be set to run on timers to create period analytics or reports.
         actions:
           - label: Learn More
             url: /features

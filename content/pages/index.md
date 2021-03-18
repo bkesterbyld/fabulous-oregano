@@ -63,7 +63,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: Easy data APIs for internal and external parties
+    title: Easy data APIs for any party
   - section_id: reviews
     type: section_reviews
     background: white

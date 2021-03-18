@@ -39,6 +39,7 @@ sections:
         price: '$1,999/mo'
         details: |
           *   Unlimited domains
+          *   Unlimited datasets
           *   starts at 20 users
           *   starts at 5M rows
           *   starts at 6 month retention

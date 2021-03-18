@@ -72,7 +72,7 @@ sections:
           planning an on prem option where you can setup a master bitdomain in
           your own data center, and then replicated data sets out to the public
           cloud. 
-      - question: Sed scelerisque in ipsum eu sollicitudin?
+      - question: What's a user?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit

@@ -23,8 +23,10 @@ sections:
       - title: Multidata Storage & Management
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: |
-          Bitdomains handle structured and unstructured data as well as files. 
+        content: >
+          Bitdomains handle structured and unstructured data as well as files.
+          Behind the scenes, we put your data in safe and reliable SQL, NoSQL
+          and object stores across a global network of cloud providers.
         actions:
           - label: Learn More
             url: /features

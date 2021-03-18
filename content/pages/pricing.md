@@ -25,6 +25,7 @@ sections:
         price: $199/mo
         details: |
           *   2 bitdomains
+          *   20 data sets
           *   5 users
           *   1M rows
           *   60 day retention

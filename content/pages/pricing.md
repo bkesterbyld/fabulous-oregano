@@ -69,8 +69,8 @@ sections:
           your own DB instance at that particular data center. So you can get
           your data out, generally, at no incremental cost to you. We are also
           planning an on prem option where you can setup a master bitdomain in
-          your own data center, and then replicated data sets out to the public
-          cloud. 
+          your own data center, and then replicate data sets out to through
+          bitdomain's public cloud network.
       - question: What's a user?
         answer: >
           A user is any person or system that needs to login in to your

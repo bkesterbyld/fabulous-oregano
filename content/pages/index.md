@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/bitdomain-explainer.png
     image_alt: App preview
-    title: Enterprise data sharing without worries
+    title: Enterprise data exchange without worries
     content: >
       Bitdomains are secure, zero trust cloud storage and processing spaces
       between your applications and others parties that you trade data with.
@@ -17,10 +17,10 @@ sections:
     type: section_features
     background: gray
     subtitle: >-
-      Bitdomains scale from simple data transfer to intermediary backends that
-      can directly power new applications
+      Bitdomains scale from simple data transfer to intelligent, two-way
+      collaboration between systems
     features:
-      - title: Multidata Global Storage
+      - title: Global Multidata Storage
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
@@ -64,7 +64,7 @@ sections:
             icon: arrow-right
             icon_position: right
     title: >-
-      Exchange and collaborate on critical data with developers, partners and
+      Intelligent data exchange and enrichment between developers, partners and
       vendors
   - section_id: reviews
     type: section_reviews

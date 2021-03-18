@@ -19,8 +19,8 @@ sections:
     subtitle: >-
       Bitdomains allow you to publish data sets, reshape the data with our logic
       tools, and provide fine-grained access and manipulation API keys to
-      anybodywithout giving direct database access or sharing DB credentials to
-      untrusted systems
+      anybody without giving direct database access or sharing DB credentials to
+      untrusted actors
     features:
       - title: Multidata
         image: images/feature1.png

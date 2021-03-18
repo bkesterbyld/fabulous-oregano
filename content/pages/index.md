@@ -18,7 +18,8 @@ sections:
     background: gray
     subtitle: >-
       Bitdomains are secure cloud storage and processing spaces between your
-      applications and others parties that you trade data with.
+      applications and others parties that you trade data with—creating a DMZ
+      between you and the rest of the world
     features:
       - title: Publish and Mix Data Between Parties
         image: images/publish.png

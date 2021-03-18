@@ -6,9 +6,11 @@ sections:
     image: images/bitdomain-explainer1.png
     image_alt: App preview
     title: Data Sharing 3.0
-    content: >
-      Bitdomains are secure cloud storage and processing spaces between your
-      applications and others parties that you trade data with.
+    content: >+
+      Create real-time, intelligent data interchanges with other developers,
+      partners and vendors without exposing your primary data, APIs or DB
+      credentials to anyone
+
     actions:
       - label: Learn More
         url: /features

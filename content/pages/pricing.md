@@ -44,6 +44,7 @@ sections:
           *   starts at 20 users
           *   starts at 5M rows
           *   starts at 6 month retention
+          *   SLA
         actions:
           - label: Order Now
             url: /signup

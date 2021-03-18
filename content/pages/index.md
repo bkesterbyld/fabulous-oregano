@@ -62,8 +62,8 @@ sections:
             icon: arrow-right
             icon_position: right
     title: >-
-      Create real-time data pipelines with developers, partners and vendors
-      without exposing your systems
+      Create real-time, intelligent data interchange with developers, partners
+      and vendors without exposing your systems
   - section_id: reviews
     type: section_reviews
     background: white

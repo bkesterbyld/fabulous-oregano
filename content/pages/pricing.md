@@ -63,10 +63,15 @@ sections:
           but we are not providing you either databases or instances. You get a
           slice of our overall compute.
       - question: How do I prevent lock-in?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+        answer: >
+          We put your bit domain at the cloud provider (AWS, Azure, Digital
+          Ocean) of choice and you have full download and API access to your
+          data. At most providers, there is no egress charges for you to have
+          your own DB instance at that particular data center. So you can get
+          your data out, generally, at no incremental cost to you. We are also
+          planning an on prem option where you can setup a master bitdomain in
+          your own data center, and then replicated data sets out to the public
+          cloud. 
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac

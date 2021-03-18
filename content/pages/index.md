@@ -16,7 +16,9 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    subtitle: "Bitdomains\_ from simple data transfer to intelligent, two-way collaboration between systems"
+    subtitle: >-
+      Create real-time, intelligent data interchange with developers, partners
+      and vendors without exposing your systems
     features:
       - title: Global Multidata Storage
         image: images/multidata.png

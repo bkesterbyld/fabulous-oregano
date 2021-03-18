@@ -33,8 +33,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
-The bitdomain team pioneered both the No Code and IoT markets, and saw some of the world's most extreme, multi-party computing situations as a result. We kept trying to get off-the-shelf technologies to solve the intersection of different parties with disparate data, but ended up breaking both open source tech and advanced products from companies like Oracle, SAP and IBM. So we took a page from VMware and thought, what if we virtualized all this? And hence bitdomains were born.
+The bitdomain team pioneered the IoT market, and saw some of the world's most extreme, multi-party computing situations as a result. We kept trying to get off-the-shelf technologies to solve the intersection of different parties with disparate data, but nothing worked. We broke both open source tech and advanced products from companies like Oracle, SAP and IBM. So we took a page from VMware and thought, what if we virtualized infrastructure away? And then what if we make it distributed? And hence, bitdomains were born.
 
-The core technology of bitdomains is safe, reliable and extremely secure and proven with several confidential customers and at companies like HPE, Tesla, Facebook, Amazon, Microsoft, BAE Systems and Northrup Grumman.
+The core technology of bitdomains is safe, reliable and extremely secure. It's proven with several confidential customers and at companies like HPE, Tesla, Facebook, Amazon, Microsoft, BAE Systems and Northrup Grumman.
 
 The company is based in the Bay Area and is backed by prominent private equity and venture capital investors.

@@ -1,8 +1,8 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  We're advanced problem solvers making difficult technical tasks easy for
+  anybody
 image: images/20161201_162410_001.jpg
 image_alt: Team members in a conference room
 seo:

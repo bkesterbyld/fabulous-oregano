@@ -62,7 +62,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: Get easy API
+    title: Get easy APIS fo
   - section_id: reviews
     type: section_reviews
     background: white

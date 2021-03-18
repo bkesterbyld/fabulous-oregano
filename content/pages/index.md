@@ -55,9 +55,7 @@ sections:
         content: >
           Data sets can be replicated for different data consumers and put
           wherever they are needed globally—with unique API keys generated down
-          to the field and logic command level. Additionally, anybody with
-          proper access can can login to view, search and manage data through
-          browser-based reports.
+          to the field and logic command level. 
         actions:
           - label: Learn More
             url: /features

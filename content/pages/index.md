@@ -64,8 +64,8 @@ sections:
             icon: arrow-right
             icon_position: right
     title: >-
-      Increase digital speed and efficiency among developers, partners and
-      vendors
+      Create real-time digital relationships with developers, partners and
+      vendors without exposing your systems
   - section_id: reviews
     type: section_reviews
     background: white

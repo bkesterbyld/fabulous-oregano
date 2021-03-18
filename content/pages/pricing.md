@@ -27,8 +27,6 @@ sections:
           *   5 users
           *   1M rows
           *   60 day retention
-
-          ######
         highlight: true
         actions:
           - label: Order Now

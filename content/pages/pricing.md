@@ -24,11 +24,11 @@ sections:
         price: $199/mo
         details: |
           *   2 bitdomains
-          *   Duis a purus nec ligula pellentesque dolor
-          *   Pellentesque sit amet
-          *   Fusce tempus mi vitae luctus
+          *   5 users
+          *   1M rows
+          *   60 day retention
 
-          ###### Nullam sollicitudin ante
+          ######
         highlight: true
         actions:
           - label: Order Now

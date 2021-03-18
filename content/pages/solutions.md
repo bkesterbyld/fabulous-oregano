@@ -7,8 +7,8 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Solutions
-    content: |+
-      ## Supply Chain
+    content: |
+      ### Supply Chain
 
       sdfaasfafasf
 
@@ -19,9 +19,6 @@ sections:
       Tech Vendor Evaluation
 
       adfasdfasfasdf
-
-
-
     actions:
       - label: Free Trial
         url: /signup

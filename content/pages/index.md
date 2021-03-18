@@ -64,7 +64,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: 'A zero trust, API-first approach to digital commerce'
+    title: 'Create a zero trust, API-based data DMZ between multiple parties'
   - section_id: call-to-action
     type: section_cta
     title: Ready to learn more?

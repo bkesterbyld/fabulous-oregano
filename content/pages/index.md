@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Democratize real time data without hassle or worry
     content: >
-      Share data with with internal teams and external parties without exposing
-      your production data, APIs or DB credentials to any person or system
+      Collaborate with internal teams and external parties without exposing your
+      production data, APIs or DB credentials to any person or system
     actions:
       - label: Learn More
         url: /features

@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/bitdomain-explainer.png
+    image: images/bitdomain-explainer1.png
     image_alt: App preview
     title: 'Zero trust, zero worry enterprise data exchange'
     content: >

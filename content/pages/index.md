@@ -18,8 +18,8 @@ sections:
     type: section_features
     background: gray
     subtitle: >-
-      Bitdomains are secure cloud storage and processing spaces between your
-      applications and other people and systems that need data
+      Bitdomains are secure cloud storage and processing spaces that provide
+      granular API and browser data access
     features:
       - title: Publish and Mix Data Between Parties
         image: images/publish.png

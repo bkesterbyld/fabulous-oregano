@@ -49,7 +49,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: 'Customized views, access control and APIs'
+      - title: 'Replicate views, manage access & monitor'
         image: images/secure-cloud-data-storage.png
         image_alt: App user profile preview
         content: >

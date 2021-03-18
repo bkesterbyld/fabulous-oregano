@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Democratize real time data without hassle or worry
     content: >
-      Trade real time data with with internal and external parties without
+      Share real time data with with internal and external parties without
       exposing your production data, APIs or DB credentials to any person or
       system
     actions:
@@ -18,8 +18,8 @@ sections:
     type: section_features
     background: gray
     subtitle: >-
-      Bitdomains are secure cloud storage and processing spaces between your
-      applications and other people and systems that need data
+      Bitdomains are secure cloud storage and processing spaces that provide
+      granular API and browser data access
     features:
       - title: Publish and Mix Data Between Parties
         image: images/publish.png
@@ -58,7 +58,7 @@ sections:
           Data sets can be replicated for different data consumers and put
           wherever they are needed globally. You can select from granular API
           key options including controlling access by data sets, fields, logic
-          commands and by time windows.
+          agents and by time windows.
         actions:
           - label: Learn More
             url: /features
@@ -66,7 +66,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: Create a zero trust cloud data DMZ
+    title: A zero trust cloud data DMZ
   - section_id: call-to-action
     type: section_cta
     title: Ready to learn more?

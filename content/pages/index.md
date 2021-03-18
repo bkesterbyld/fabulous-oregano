@@ -64,7 +64,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: 'Multiparty, Zero Trust Data Interchange'
+    title: 'A multiparty, zero trust approach to digital commerce'
   - section_id: reviews
     type: section_reviews
     background: white

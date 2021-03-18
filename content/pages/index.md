@@ -19,9 +19,8 @@ sections:
     type: section_features
     background: gray
     subtitle: >-
-      Create real-time, intelligent data interchanges with other developers,
-      partners and vendors without exposing your primary data, APIs or DB
-      credentials to anyone
+      Bitdomains are secure cloud storage and processing spaces between your
+      applications and others parties that you trade data with.
     features:
       - title: Publish and Mix Data Between Parties
         image: images/publish.png

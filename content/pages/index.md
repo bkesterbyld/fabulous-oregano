@@ -21,7 +21,7 @@ sections:
       and vendors without exposing your systems
     features:
       - title: Publish and Mix Data Between Parties
-        image: images/multidata.png
+        image: images/publish.png
         image_alt: App preview on a phone and tablet
         content: >
           Rapidly model structured or unstructured data between parties and then

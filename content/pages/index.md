@@ -5,10 +5,10 @@ sections:
     type: section_hero
     image: images/bitdomain-explainer1.png
     image_alt: App preview
-    title: 'Zero trust, zero worry enterprise data exchange'
+    title: Share enterprise data without worries
     content: >
-      Bitdomains are secure, zero trust cloud storage and processing spaces
-      between your applications and others parties that you trade data with.
+      Trade real-time data with developers, partners and vendors without
+      exposing your primary data, APIs or DB credentials to anyone
     actions:
       - label: Learn More
         url: /features
@@ -17,8 +17,8 @@ sections:
     type: section_features
     background: gray
     subtitle: >-
-      Create real-time, intelligent data interchange with developers, partners
-      and vendors without exposing your systems
+      Bitdomains are secure cloud storage and processing spaces between your
+      applications and others parties that you trade data with
     features:
       - title: Publish and Mix Data Between Parties
         image: images/publish.png
@@ -39,7 +39,7 @@ sections:
         image: images/enrich5.png
         image_alt: App users welcoming a new member
         content: >
-          Bitdomain no code logic agents transform, aggregate and analyze data
+          Create no code logic agents that transform, aggregate and analyze data
           in real-time. They act upon incoming data and events, or can be set to
           run on timers.
         actions:
@@ -49,14 +49,13 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: 'Syndicate, Secure and Monitor'
+      - title: 'Replicate, Secure and Monitor'
         image: images/API.png
         image_alt: App user profile preview
         content: >
-          Data sets can be replicated for different data consumers, with unique
-          API keys generated down to the field and logic command level.
-          Additionally, anybody with proper access can can login to view, search
-          and manage data through browser-based reports.
+          Data sets can be replicated for different data consumers and put
+          wherever they are needed globally—with unique API keys available down
+          to the field and logic command level.
         actions:
           - label: Learn More
             url: /features
@@ -64,45 +63,15 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - section_id: reviews
-    type: section_reviews
-    background: white
-    title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
-    reviews:
-      - author: Eric Widget
-        avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Parsley Montana
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+    title: 'Create a zero trust, API-based data DMZ between multiple parties'
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Ready to learn more?
+    subtitle: Drop us a line for ore information or a demo
     actions:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme

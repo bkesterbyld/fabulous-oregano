@@ -4,8 +4,8 @@
     "base_font": "nunito-sans",
     "palette": "orange",
     "header": {
-        "logo_img": "images/bitdomainlogo4.png",
-        "logo_img_alt": "Logo",
+        "logo_img": "images/bd-logo2.png",
+        "logo_img_alt": "Bitdomain Secure Cloud Storage & Processing",
         "has_nav": true,
         "nav_links": [
             {
@@ -39,10 +39,10 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/bd-lite2.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "secure cloud data exchanges\n"
             },
             {
                 "type": "footer_nav",
@@ -51,11 +51,6 @@
                     {
                         "label": "About Us",
                         "url": "/about",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Blog",
-                        "url": "/blog",
                         "style": "link"
                     },
                     {
@@ -71,39 +66,9 @@
                 ]
             },
             {
-                "type": "footer_nav",
-                "title": "Community",
-                "nav_links": [
-                    {
-                        "label": "Twitter",
-                        "url": "https://twitter.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "twitter",
-                        "icon_position": "left"
-                    },
-                    {
-                        "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "linkedin",
-                        "icon_position": "left"
-                    },
-                    {
-                        "label": "GitHub",
-                        "url": "https://github.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "github",
-                        "icon_position": "left"
-                    }
-                ]
-            },
-            {
                 "type": "footer_form",
                 "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Stay up to date with industry news and our latest developments.\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
@@ -118,7 +83,7 @@
                 "submit_label": "Subscribe"
             }
         ],
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Terms of Service",
@@ -131,7 +96,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+        "content": "&copy;2021 Bitdomain"
     },
     "domain": "https://fabulous-oregano-294b7.netlify.app"
 }

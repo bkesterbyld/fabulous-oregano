@@ -17,8 +17,8 @@ sections:
     type: section_features
     background: gray
     subtitle: >-
-      Bitdomains allow you to exchange data with... all without giving untrusted
-      actors direct access
+      Bitdomains allow you to exchange and manipulate data with anyone, without
+      giving untrusted actors direct access to your systems
     features:
       - title: Multidata Storage & Management
         image: images/feature1.png

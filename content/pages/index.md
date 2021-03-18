@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/bitdomain-explainer.png
     image_alt: App preview
-    title: Enterprise data exchange without worries
+    title: 'Zero trust, zero worry enterprise data exchange'
     content: >
       Bitdomains are secure, zero trust cloud storage and processing spaces
       between your applications and others parties that you trade data with.
@@ -17,16 +17,17 @@ sections:
     type: section_features
     background: gray
     subtitle: >-
-      Bitdomains scale from simple data transfer to intelligent, two-way
-      collaboration between systems
+      Create real-time, intelligent data interchange with developers, partners
+      and vendors without exposing your systems
     features:
-      - title: Global Multidata Storage
-        image: images/feature1.png
+      - title: Publish and Mix Data Between Parties
+        image: images/multidata.png
         image_alt: App preview on a phone and tablet
         content: >
-          Bitdomains handle structured and unstructured data as well as files.
-          Behind the scenes, we put your data in safe and reliable SQL, NoSQL
-          and object stores across a global network of cloud providers.
+          Rapidly model structured or unstructured data between parties and then
+          push it into a Bitdomain via API or our integration partners. Behind
+          the scenes, we put your data in safe and reliable SQL, NoSQL and
+          object stores across a global network of cloud providers.
         actions:
           - label: Learn More
             url: /features
@@ -34,13 +35,13 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: No Code Data Management
-        image: images/feature2.png
+      - title: Enrich & Analyze
+        image: images/enirch2.png
         image_alt: App users welcoming a new member
         content: >
           Bitdomain logic agents transform, aggregate and analyze data in
-          real-time. Logic agents act upon incoming data and events or can be
-          set to run on timers.
+          real-time. They act upon incoming data and events, or can be set to
+          run on timers.
         actions:
           - label: Learn More
             url: /features
@@ -48,14 +49,14 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: 'Customized views, access control and APIs'
-        image: images/feature3.png
+      - title: 'Replicate views, manage access & monitor'
+        image: images/secure-cloud-data-storage.png
         image_alt: App user profile preview
         content: >
           Data sets can be replicated for different data consumers, with unique
-          API keys generated down to the field and logic level. Additionally,
-          anybody with access can can login to view, search and manage data
-          through browser views. 
+          API keys generated down to the field and logic command level.
+          Additionally, anybody with access can can login to view, search and
+          manage data through browser views.
         actions:
           - label: Learn More
             url: /features
@@ -63,9 +64,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: >-
-      Intelligent data exchange and enrichment between developers, partners and
-      vendors
   - section_id: reviews
     type: section_reviews
     background: white

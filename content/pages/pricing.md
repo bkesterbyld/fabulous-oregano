@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Pro
         subtitle: For teams
-        price: $49/m
+        price: $199/mo
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor

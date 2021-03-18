@@ -2,9 +2,9 @@
     "title": "Azimuth",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "blue",
+    "palette": "orange",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/bitdomainlogo.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
@@ -132,5 +132,6 @@
             }
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
-    }
+    },
+    "domain": "https://fabulous-oregano-294b7.netlify.app"
 }

@@ -5,10 +5,10 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    title: Enterprise data sharing without worries
+    content: >
+      Bitdomains are secure cloud data sharing and management spaces between
+      your systems and others parties that need data
     actions:
       - label: Learn More
         url: /features

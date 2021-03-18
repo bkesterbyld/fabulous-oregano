@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/featuress.png
     image_alt: App preview on a phone and tablet
-    title: On Demand and Infinitely Scalable
+    title: 'Easy, Secure and Infinitely Scalable'
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum

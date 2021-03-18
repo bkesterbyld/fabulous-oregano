@@ -8,7 +8,7 @@ sections:
     title: Enterprise data sharing without worries
     content: >
       Bitdomains are secure cloud data sharing and management spaces between
-      your systems and other departments, systems and partners that need data
+      your systems and others parties that need data
     actions:
       - label: Learn More
         url: /features

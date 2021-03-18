@@ -2,7 +2,7 @@
     "title": "Azimuth",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "orange",
+    "palette": "blue",
     "header": {
         "logo_img": "images/bitdomainlogo.png",
         "logo_img_alt": "Logo",

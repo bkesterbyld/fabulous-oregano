@@ -18,7 +18,7 @@ sections:
     background: gray
     subtitle: >-
       Create real-time, intelligent data interchange with developers, partners
-      and vendors without exposing your systems
+      and vendors without exposing your systems or DB credentials to anyone
     features:
       - title: Publish and Mix Data Between Parties
         image: images/publish.png

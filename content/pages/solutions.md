@@ -7,25 +7,32 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Solutions
-    content: >
-      ### Supply Chain
+    content: >+
+      **Supply Chain**
 
 
       Supply chain professionals and 3PLs use bitdomains to establish visibility
       and control of orders and inventory across complex supply networks,
-      avoiding antiquated and slow FTP, EDI and other batch loading approaches.
-      This results in real-time, adaptive supply cahins 
+      avoiding antiquated and slow FTP, EDI and other batch loading approaches,
+      ultimately making better real-time decisions and satisfying end-customers
+
+
+      **Tech Vendor Evaluation**
+
+
+      IT Directors use bitdomains to provide trial data access while evaluating
+      new software solutions and running conference room pilots
+
+
+      **Application & API Consolidation**
+
+
+      Product management leaders who are responsible for multiple software
+      products love using bitdomains to create a unified API for customers, or
+      to build new applications on top of legacy products. 
 
 
 
-
-      asdadfasf
-
-
-      Tech Vendor Evaluation
-
-
-      adfasdfasfasdf
     actions:
       - label: Free Trial
         url: /signup

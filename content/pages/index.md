@@ -21,7 +21,7 @@ sections:
       and vendors without exposing your systems
     features:
       - title: Publish and Mix Data Between Parties
-        image: images/multidata.png
+        image: images/publish.png
         image_alt: App preview on a phone and tablet
         content: >
           Rapidly model structured or unstructured data between parties and then
@@ -35,12 +35,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Enrich & Analyze
-        image: images/enirch2.png
+      - title: Enrich & Analyze Without Coding
+        image: images/enrich5.png
         image_alt: App users welcoming a new member
         content: >
-          Bitdomain logic agents transform, aggregate and analyze data in
-          real-time. They act upon incoming data and events, or can be set to
+          Bitdomain no code logic agents transform, aggregate and analyze data
+          in real-time. They act upon incoming data and events, or can be set to
           run on timers.
         actions:
           - label: Learn More
@@ -49,14 +49,14 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: 'Syndicate, secure and monitor'
-        image: images/secure-cloud-data-storage.png
+      - title: 'Syndicate, Secure and Monitor'
+        image: images/API.png
         image_alt: App user profile preview
         content: >
           Data sets can be replicated for different data consumers, with unique
           API keys generated down to the field and logic command level.
-          Additionally, anybody with access can can login to view, search and
-          manage data through browser views.
+          Additionally, anybody with proper access can can login to view, search
+          and manage data through browser-based reports.
         actions:
           - label: Learn More
             url: /features

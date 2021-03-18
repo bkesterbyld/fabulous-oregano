@@ -65,7 +65,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: It's fun time
+    title: 'Multiparty, Zero Trust Enterprise Data Interchange'
   - section_id: reviews
     type: section_reviews
     background: white

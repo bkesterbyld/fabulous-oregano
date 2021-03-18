@@ -26,9 +26,9 @@ sections:
         content: >
           Rapidly model structured or unstructured data between parties with
           easy no code tools, then push it into a Bitdomain via API or our
-          integration partners. Behind the scenes, we put your data in safe and
-          reliable SQL, NoSQL and object stores across a global network of cloud
-          providers.
+          integration partners. Behind the scenes, we put intermediate data in
+          safe and reliable SQL, NoSQL and object stores across a global network
+          of cloud providers.
         actions:
           - label: Learn More
             url: /features

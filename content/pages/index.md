@@ -17,8 +17,8 @@ sections:
     type: section_features
     background: gray
     subtitle: >-
-      Bitdomains allow you to publish data sets, manipulate... all without
-      giving untrusted actors direct access
+      Bitdomains allow you to exchange data with... all without giving untrusted
+      actors direct access
     features:
       - title: Multidata Storage & Management
         image: images/feature1.png

@@ -63,7 +63,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: 'Create a zero trust, API-based data DMZ between multiple parties'
+    title: Create a zero trust data DMZ between multiple parties
   - section_id: call-to-action
     type: section_cta
     title: Ready to learn more?

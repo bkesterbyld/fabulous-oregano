@@ -22,7 +22,7 @@ sections:
       anybody without giving direct database access or sharing DB credentials to
       untrusted actors
     features:
-      - title: Multidata
+      - title: Multidata Storage & Management
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-

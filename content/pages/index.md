@@ -42,7 +42,7 @@ sections:
         content: >
           Create no code logic agents that transform, aggregate and analyze data
           in real-time. They act upon incoming data and events, or can be set to
-          run on timers.
+          run on timers to create period analytics or reports.
         actions:
           - label: Learn More
             url: /features

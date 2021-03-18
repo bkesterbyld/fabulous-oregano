@@ -63,7 +63,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: 'Data is your currency, '
+    title: 'Data is your currency, control '
   - section_id: reviews
     type: section_reviews
     background: white

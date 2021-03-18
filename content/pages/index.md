@@ -16,9 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    subtitle: >-
-      Bitdomains scale from simple data transfer to intelligent, two-way
-      collaboration between systems
+    subtitle: "Bitdomains\_ from simple data transfer to intelligent, two-way collaboration between systems"
     features:
       - title: Global Multidata Storage
         image: images/multidata.png

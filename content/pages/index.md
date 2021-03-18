@@ -39,7 +39,7 @@ sections:
         image: images/enrich5.png
         image_alt: App users welcoming a new member
         content: >
-          Bitdomain no code logic agents transform, aggregate and analyze data
+          Create no code logic agents that transform, aggregate and analyze data
           in real-time. They act upon incoming data and events, or can be set to
           run on timers.
         actions:

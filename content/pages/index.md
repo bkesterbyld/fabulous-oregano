@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/bitdomain-explainer1.png
     image_alt: App preview
-    title: 'Zero trust, zero worry enterprise data exchange'
+    title: 'Zero Trust, zero worry enterprise data exchange'
     content: >
       Bitdomains are secure, zero trust cloud storage and processing spaces
       between your applications and others parties that you trade data with.

@@ -37,4 +37,4 @@ The bitdomain team pioneered the IoT market, where we lived at the intersection 
 
 The core technology of bitdomains is safe, reliable and extremely secure. It's proven with several confidential customers and at companies like HPE, Tesla, Facebook, Amazon, Microsoft, BAE Systems and Northrup Grumman.
 
-The company is based in the Bay Area and is backed by prominent Silicon Valley investors.
+The company is based in the Bay Area and is backed by prominent Silicon Valley investors and family offices.

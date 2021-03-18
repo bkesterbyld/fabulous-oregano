@@ -54,8 +54,8 @@ sections:
         image_alt: App user profile preview
         content: >
           Data sets can be replicated for different data consumers and put
-          wherever they are needed globally—with unique API keys generated down
-          to the field and logic command level. 
+          wherever they are needed globally—with unique API keys available down
+          to the field and logic command level.
         actions:
           - label: Learn More
             url: /features

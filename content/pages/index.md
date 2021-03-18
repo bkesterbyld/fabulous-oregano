@@ -50,7 +50,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: 'Syndicate, secure and monitor'
-        image: images/secure-cloud-data-storage.png
+        image: images/API.png
         image_alt: App user profile preview
         content: >
           Data sets can be replicated for different data consumers, with unique

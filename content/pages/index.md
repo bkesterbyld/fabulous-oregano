@@ -3,12 +3,12 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/bitdomain-explainer.png
     image_alt: App preview
     title: Enterprise data sharing without worries
     content: >
-      Bitdomains are secure cloud data sharing and management spaces between
-      your systems and others parties that need data
+      Bitdomains are secure, zero trust cloud storage and processing spaces
+      between your applications and others parties that you trade data with.
     actions:
       - label: Learn More
         url: /features
@@ -16,18 +16,17 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Bitdomains scale from simple data transfer to intermediary backends that
+      can directly power new applications
     features:
-      - title: The Best Feature of Your Services
+      - title: Multidata Global Storage
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Bitdomains handle structured and unstructured data as well as files.
+          Behind the scenes, we put your data in safe and reliable SQL, NoSQL
+          and object stores across a global network of cloud providers.
         actions:
           - label: Learn More
             url: /features
@@ -35,13 +34,13 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: No Code Data Management
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Bitdomain logic agents transform, aggregate and analyze data in
+          real-time. Logic agents act upon incoming data and events or can be
+          set to run on timers.
         actions:
           - label: Learn More
             url: /features
@@ -49,13 +48,14 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: 'Customized views, access control and APIs'
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Data sets can be replicated for different data consumers, with unique
+          API keys generated down to the field and logic level. Additionally,
+          anybody with access can can login to view, search and manage data
+          through browser views. 
         actions:
           - label: Learn More
             url: /features
@@ -63,6 +63,9 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+    title: >-
+      Exchange and collaborate on critical data with developers, partners and
+      vendors
   - section_id: reviews
     type: section_reviews
     background: white

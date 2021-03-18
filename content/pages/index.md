@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/bitdomain-explainer1.png
     image_alt: App preview
-    title: Secure Cloud Data Interchange
+    title: Share enterprise data without worries
     content: >
       Share real-time data with other developers, partners and vendors without
       exposing your primary data, APIs or DB credentials to anyone

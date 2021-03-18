@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Pro
-        subtitle: For medium-sized businesses
+        subtitle: For teams
         price: $49/m
         details: |-
           * Curabitur non nunc mollis

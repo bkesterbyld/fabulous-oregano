@@ -63,7 +63,9 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: 'Collaborate on critical data with developers, partners and vendors'
+    title: >-
+      Intelligent data exchange and enrichment between developers, partners and
+      vendors
   - section_id: reviews
     type: section_reviews
     background: white

@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Share enterprise data without worries
     content: >
-      Share real-time data with other developers, partners and vendors without
+      Trade real-time data with developers, partners and vendors without
       exposing your primary data, APIs or DB credentials to anyone
     actions:
       - label: Learn More

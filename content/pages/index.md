@@ -17,8 +17,8 @@ sections:
     type: section_features
     background: gray
     subtitle: >-
-      Bitdomains scale from simple data transfer to intermediary backends that
-      can directly power new applications
+      Bitdomains scale from simple data transfer to intelligent, two-way
+      collaboration between systems
     features:
       - title: Multidata Global Storage
         image: images/feature1.png

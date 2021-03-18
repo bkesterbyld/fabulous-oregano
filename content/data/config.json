@@ -75,7 +75,7 @@
                 "title": "Subscribe",
                 "content": "Stay up to date with industry news and our latest developments.\n",
                 "form_id": "contactForm",
-                "hide_labels": true,
+                "hide_labels": false,
                 "form_fields": [
                     {
                         "input_type": "email",

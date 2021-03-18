@@ -4,7 +4,7 @@
     "base_font": "system-sans",
     "palette": "orange",
     "header": {
-        "logo_img": "images/bdlogo3.png",
+        "logo_img": "images/bdlogo4.png",
         "logo_img_alt": "Bitdomain Secure Cloud Storage & Processing",
         "has_nav": true,
         "nav_links": [

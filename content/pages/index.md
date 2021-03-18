@@ -49,7 +49,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: 'Syndicate, Secure and Monitor'
+      - title: 'Replicate, Secure and Monitor'
         image: images/API.png
         image_alt: App user profile preview
         content: >

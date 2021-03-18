@@ -7,16 +7,23 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Solutions
-    content: |
+    content: >
       ### Supply Chain
 
-      sdfaasfafasf
 
-      Unifying Disparate Software Products
+      Supply chain professionals and 3PLs use bitdomains to establish visibility
+      and control of orders and inventory across complex supply networks,
+      avoiding antiquated and slow FTP, EDI and other batch loading approaches.
+      This results in real-time, adaptive supply cahins 
+
+
+
 
       asdadfasf
 
+
       Tech Vendor Evaluation
+
 
       adfasdfasfasdf
     actions:

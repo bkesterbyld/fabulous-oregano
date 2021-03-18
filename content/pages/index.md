@@ -58,7 +58,7 @@ sections:
           Data sets can be replicated for different data consumers and put
           wherever they are needed globally. You can select from granular API
           key options including controlling access by data sets, fields, logic
-          commands and by time windows.
+          agents and by time windows.
         actions:
           - label: Learn More
             url: /features

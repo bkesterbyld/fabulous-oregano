@@ -35,11 +35,11 @@ sections:
       - title: Enterprise
         subtitle: For departments
         price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Unlimited domains
+          *   starts at 20 users
+          *   starts at 5M rows
+          *   starts at 6 month retention
         actions:
           - label: Order Now
             url: /signup

@@ -4,7 +4,7 @@
     "base_font": "system-sans",
     "palette": "orange",
     "header": {
-        "logo_img": "images/bd-logo2.png",
+        "logo_img": "images/bdlogo3.png",
         "logo_img_alt": "Bitdomain Secure Cloud Storage & Processing",
         "has_nav": true,
         "nav_links": [
@@ -39,7 +39,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/bd-lite2.png",
+                "image": "images/bdlogo3-white.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "secure cloud data exchanges\n"

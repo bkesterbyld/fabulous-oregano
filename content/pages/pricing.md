@@ -62,7 +62,7 @@ sections:
           location (Western US, Eastern US, Europe, Asia) your domain runs on
           but we are not providing you either databases or instances. You get a
           slice of our overall compute.
-      - question: Aliquam eget purus ante?
+      - question: How do I prevent lock-in
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque

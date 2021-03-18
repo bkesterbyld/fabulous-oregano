@@ -1,7 +1,7 @@
 {
     "title": "Azimuth",
     "path_prefix": "/",
-    "base_font": "nunito-sans",
+    "base_font": "fira-sans",
     "palette": "orange",
     "header": {
         "logo_img": "images/bd-logo2.png",

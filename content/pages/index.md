@@ -25,10 +25,8 @@ sections:
       - title: Multidata Storage & Management
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |
+          Bitdomains handle structured and unstructured data as well as files. 
         actions:
           - label: Learn More
             url: /features

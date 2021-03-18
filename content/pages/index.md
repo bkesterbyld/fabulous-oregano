@@ -55,8 +55,9 @@ sections:
         image_alt: App user profile preview
         content: >
           Data sets can be replicated for different data consumers and put
-          wherever they are needed globally—with unique API keys available down
-          to the field and logic command level.
+          wherever they are needed globally. You can select from granular API
+          options including controlling access by data sets, fields, logic
+          commands and by time windows. 
         actions:
           - label: Learn More
             url: /features

@@ -20,7 +20,7 @@ sections:
       Bitdomains scale from simple data transfer to intelligent, two-way
       collaboration between systems
     features:
-      - title: Multidata Global Storage
+      - title: Global Multidata Storage
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >

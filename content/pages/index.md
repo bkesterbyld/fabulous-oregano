@@ -37,10 +37,10 @@ sections:
       - title: No Code Data Management & Processing
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Use Bitdomain logic agents to transform, aggregate and analyze data in
+          real-time. Logic agents act upon events or can be set to run on
+          timers. 
         actions:
           - label: Learn More
             url: /features

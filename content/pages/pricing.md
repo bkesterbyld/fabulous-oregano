@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Basic
-        subtitle: For small businesses
+        subtitle: For solo developers
         price: free
         details: |-
           * Lorem ipsum dolor sit amet

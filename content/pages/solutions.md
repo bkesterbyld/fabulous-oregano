@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/undraw_safe_bnk7.svg
     image_alt: App preview on a phone and tablet
     title: Solutions
     content: >

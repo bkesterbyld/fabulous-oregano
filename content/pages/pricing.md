@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: Our pricing is based on network access
+    subtitle: Try us out for free!
     pricing_plans:
       - title: Basic
         subtitle: For solo developers

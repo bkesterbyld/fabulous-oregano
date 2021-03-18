@@ -62,7 +62,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: Syndicate
+    title: 'Exchange critical data with developers, partners'
   - section_id: reviews
     type: section_reviews
     background: white

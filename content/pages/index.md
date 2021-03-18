@@ -69,7 +69,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Ready to learn more?
-    subtitle: Drop us a line for a quick demo
+    subtitle: Drop us a line for ore information or a demo
     actions:
       - label: Get Started
         url: /signup

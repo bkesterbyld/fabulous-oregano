@@ -68,7 +68,7 @@ sections:
     title: 'A multiparty, zero trust approach to digital commerce'
   - section_id: call-to-action
     type: section_cta
-    title: Get a demo!
+    title: Ready to learn more?
     subtitle: Drop us a line for a quick demo
     actions:
       - label: Get Started

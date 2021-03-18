@@ -21,7 +21,7 @@ sections:
       collaboration between systems
     features:
       - title: Global Multidata Storage
-        image: images/feature1.png
+        image: images/multidata.png
         image_alt: App preview on a phone and tablet
         content: >
           Bitdomains handle structured and unstructured data as well as files.

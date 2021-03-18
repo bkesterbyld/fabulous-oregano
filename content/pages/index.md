@@ -35,7 +35,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Enrich & Analyze
+      - title: Enrich & Analyze Without Coding
         image: images/enrich5.png
         image_alt: App users welcoming a new member
         content: >

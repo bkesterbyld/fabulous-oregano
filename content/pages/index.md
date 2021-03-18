@@ -24,10 +24,11 @@ sections:
         image: images/publish.png
         image_alt: App preview on a phone and tablet
         content: >
-          Rapidly model structured or unstructured data between parties and then
-          push it into a Bitdomain via API or our integration partners. Behind
-          the scenes, we put your data in safe and reliable SQL, NoSQL and
-          object stores across a global network of cloud providers.
+          Rapidly model structured or unstructured data between parties with
+          easy no code tools, then push it into a Bitdomain via API or our
+          integration partners. Behind the scenes, we put this intermediate data
+          in safe and reliable SQL, NoSQL and object stores across a global
+          network of cloud providers.
         actions:
           - label: Learn More
             url: /features
@@ -63,7 +64,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: 'Create a zero trust, API-based data DMZ between multiple parties'
+    title: 'Create a zero trust, real time data DMZ'
   - section_id: call-to-action
     type: section_cta
     title: Ready to learn more?

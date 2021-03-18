@@ -20,7 +20,7 @@ sections:
       Bitdomains scale from simple data transfer to intermediary backends that
       can directly power new applications
     features:
-      - title: Multidata Storage & Management
+      - title: Multidata Global Storage
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >

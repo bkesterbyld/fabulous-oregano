@@ -53,10 +53,11 @@ sections:
         image: images/API.png
         image_alt: App user profile preview
         content: >
-          Data sets can be replicated for different data consumers, with unique
-          API keys generated down to the field and logic command level.
-          Additionally, anybody with proper access can can login to view, search
-          and manage data through browser-based reports.
+          Data sets can be replicated for different data consumers and put
+          wherever they are needed globally—with unique API keys generated down
+          to the field and logic command level. Additionally, anybody with
+          proper access can can login to view, search and manage data through
+          browser-based reports.
         actions:
           - label: Learn More
             url: /features

@@ -18,8 +18,7 @@ sections:
     background: gray
     subtitle: >-
       Bitdomains are secure cloud storage and processing spaces between your
-      applications and others parties that you trade data with. Spin them up on
-      the fly or create master data you syndicate into subsets as needed.
+      applications and others parties that you trade data with.
     features:
       - title: Publish and Mix Data Between Parties
         image: images/publish.png

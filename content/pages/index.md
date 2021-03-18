@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/bitdomain-explainer1.png
     image_alt: App preview
-    title: Share real time enterprise data without worries
+    title: Democratize and share real time data without worries
     content: >
       Trade real time data with with internal and external parties without
       exposing your core data, APIs or DB credentials to any person or system

@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Democratize real time data without hassle or worry
     content: >
-      Trade real time data with with internal and external parties without
+      Share real time data with with internal and external parties without
       exposing your production data, APIs or DB credentials to any person or
       system
     actions:

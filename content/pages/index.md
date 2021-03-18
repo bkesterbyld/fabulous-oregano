@@ -24,10 +24,10 @@ sections:
         image: images/multidata.png
         image_alt: App preview on a phone and tablet
         content: >
-          Rapidly model structured or unstructured data between parties and push
-          it into a Bitdomain via API or our integration partners. Behind the
-          scenes, we put your data in safe and reliable SQL, NoSQL and object
-          stores across a global network of cloud providers.
+          Rapidly model structured or unstructured data between parties and then
+          push it into a Bitdomain via API or our integration partners. Behind
+          the scenes, we put your data in safe and reliable SQL, NoSQL and
+          object stores across a global network of cloud providers.
         actions:
           - label: Learn More
             url: /features

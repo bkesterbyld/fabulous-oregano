@@ -28,7 +28,7 @@ sections:
           between parties with easy no code tools. Then connect into a Bitdomain
           via API or our integration partners. Behind the scenes, we put this
           intermediate data in safe, reliable and economical SQL, NoSQL and
-          object stores across a global network of cloud providers.
+          object stores in a multicloud network
         actions:
           - label: Learn More
             url: /features

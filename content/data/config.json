@@ -19,13 +19,13 @@
                 "style": "link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Platform",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Platform",
-                "url": "/style-guide",
+                "label": "Pricing",
+                "url": "/pricing",
                 "style": "link"
             },
             {

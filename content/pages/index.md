@@ -38,9 +38,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          Use Bitdomain logic agents to transform, aggregate and analyze data in
-          real-time. Logic agents act upon events or can be set to run on
-          timers. 
+          Bitdomain logic agents to transform, aggregate and analyze data in
+          real-time. Logic agents act upon incoming data, events or can be set
+          to run on timers.
         actions:
           - label: Learn More
             url: /features

@@ -36,7 +36,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Enrich & Analyze
-        image: images/enirch2.png
+        image: images/enrich5.png
         image_alt: App users welcoming a new member
         content: >
           Bitdomain logic agents transform, aggregate and analyze data in

@@ -64,7 +64,7 @@ sections:
             icon: arrow-right
             icon_position: right
     title: >-
-      Intelligent data exchange and enrichment between developers, partners and
+      Increase digital speed and efficiency among developers, partners and
       vendors
   - section_id: reviews
     type: section_reviews

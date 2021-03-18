@@ -65,7 +65,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: 'Create a zero trust, real time data DMZ'
+    title: Create a zero trust cloud data DMZ
   - section_id: call-to-action
     type: section_cta
     title: Ready to learn more?

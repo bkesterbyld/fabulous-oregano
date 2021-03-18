@@ -10,11 +10,11 @@ sections:
       - title: Basic
         subtitle: For solo developers
         price: free
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   1 bitdomain
+          *   2 users 
+          *   100,000 rows
+          *   Rolling 30 day retention
         actions:
           - label: Order Now
             url: /signup

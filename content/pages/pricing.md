@@ -34,7 +34,7 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: For departments
-        price: $149/m
+        price: '$1,999/mo'
         details: |
           *   Unlimited domains
           *   starts at 20 users

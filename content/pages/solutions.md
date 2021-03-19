@@ -8,7 +8,7 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Solutions
     content: >
-      **Supply Chain**
+      **Supply Chain Collaboration**
 
 
       Supply chain professionals and 3PLs use bitdomains to establish

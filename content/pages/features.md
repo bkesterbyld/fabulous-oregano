@@ -21,22 +21,19 @@ sections:
       **Multidata modeling and mappings to source systems**
 
 
-      Easy to do in no code data tables that also support document-based
-      modeling for JSON-type data. Data can be fully relational. We use
-      PostgreSQL, Cassandra and various object stores from cloud providers to
-      handle storage, but you don't have to know anything about those
-      technologies or interact with them, bitdomains take care of that for you.
+      Create no code data tables that also support document-based modeling for
+      JSON-type data. Data can be fully relational. We use PostgreSQL, Cassandra
+      and various object stores from cloud providers to handle storage behind
+      the scenes.
 
 
-      **Data manipulations, analytics & business logic**
+      Data management with a visual programming language
 
 
       No code logic agents give you query and data management capability along
       with the power of imperative programming languages like Java and C. Logic
       agents are housed in a bitdomain but can operate on other bitdomains. They
-      execute based on events such as a data update or form submission. They can
-      also execute based on timers to generate reports and near-real time
-      analytics.
+      execute on events or timers.
 
 
       **Powerful compute options to handle intense transformations, calculations

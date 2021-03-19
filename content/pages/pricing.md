@@ -72,9 +72,16 @@ sections:
           your own data center, and then replicate data sets out to through
           bitdomain's public cloud network.
       - question: What's a user?
-        answer: >
-          A user is any person or system that needs to login in to your
-          bitdomain(s). 
+        answer: >+
+          We put your bit domain at the cloud provider (AWS, Azure, Digital
+          Ocean) of choice and you have full download and API access to your
+          data. At most providers, there is no egress charges for you to have
+          your own DB instance at that particular data center. So you can get
+          your data out, generally, at no incremental cost to you. We are also
+          planning an on prem option where you can setup a master bitdomain in
+          your own data center, and then replicate data sets out to through
+          bitdomain's public cloud network.
+
     subtitle: Let us know if you have more at help@bitdomain.dev
 seo:
   title: Pricing

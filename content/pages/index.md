@@ -103,5 +103,11 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Collaborate with internal teams and external parties without exposing
+        your production data, APIs or DB credentials to any person or system
+      keyName: property
+      relativeUrl: false
 layout: landing
 ---

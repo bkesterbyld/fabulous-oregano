@@ -61,7 +61,7 @@ sections:
           location (Western US, Eastern US, Europe, Asia) your domain runs on
           but we are not providing you either databases or instances. You get a
           slice of our overall compute.
-      - question: How do I prevent lock-in?
+      - question: What's a domain?
         answer: >
           We put your bit domain at the cloud provider (AWS, Azure, Digital
           Ocean) of choice and you have full download and API access to your

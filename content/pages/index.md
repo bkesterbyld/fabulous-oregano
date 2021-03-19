@@ -71,8 +71,8 @@ sections:
     type: section_cta
     title: Learn about our solutions
     subtitle: >-
-      We help with supply chain, privacy, application unification and other use
-      cases
+      Bitdomains drive value in supply chain collaboration, privacy compliance,
+      application unification and other modern challenges
     actions:
       - label: Solutions
         url: /solutions

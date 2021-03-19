@@ -20,7 +20,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
+        label: Should we contact you?
         default_value: Please select
         options:
           - I'd like a demo

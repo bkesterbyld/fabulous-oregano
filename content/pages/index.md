@@ -90,9 +90,6 @@ seo:
     - name: 'og:title'
       value: 'bitdomain - zero trust, secure cloud data exchange'
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Azimuth theme
-      keyName: property
     - name: 'og:image'
       value: /images/bitdomainlogo.png
       keyName: property

@@ -37,6 +37,14 @@ sections:
       e-commerce leaders use bitdomains to get data to external agencies who
       develop and maintain corporate web and marketing sites that need company
       back office or customer data.
+
+
+      **GDPR and Privacy Compliance**
+
+
+      Application owners and data engineers use bitdomains to keep sensitive
+      data in required countries, while replicating non-sensitive data back to
+      master sets.
     actions:
       - label: Free Trial
         url: /signup

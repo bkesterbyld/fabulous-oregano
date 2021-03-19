@@ -3,7 +3,7 @@ title: Features
 sections:
   - section_id: features
     type: section_content
-    background: white
+    background: gray
     image_alt: App preview on a phone and tablet
     title: 'Easy, Secure and Infinitely Scalable'
     content: >

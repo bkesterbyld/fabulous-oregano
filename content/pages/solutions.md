@@ -49,7 +49,7 @@ sections:
     title: Explore bitdomain features
     subtitle: Drop us a line for more info or a demo
     actions:
-      - label: Get Started
+      - label: See Key Features
         url: /contact
         style: secondary
 seo:

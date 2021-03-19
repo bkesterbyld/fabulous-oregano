@@ -41,8 +41,8 @@ sections:
         image_alt: App users welcoming a new member
         content: >
           Create no code logic agents that transform, aggregate and analyze data
-          in real-time. They act instantly upon incoming data and events, or can
-          be set to run on timers to create period analytics or reports.
+          in real-time. They act based on events, or can be set to run on timers
+          to create period analytics or reports.
         actions:
           - label: Learn More
             url: /features

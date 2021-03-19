@@ -42,7 +42,7 @@ sections:
           *   Unlimited domains
           *   Unlimited datasets
           *   starts at 20 users
-          *   starts at 5M rows
+          *   starts at 3M rows
           *   starts at 6 month retention
           *   Full support and SLA
         actions:

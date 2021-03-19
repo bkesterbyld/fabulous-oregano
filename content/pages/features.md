@@ -63,6 +63,13 @@ sections:
       Via a robust access control system, business people and data scientists
       can login to view, search replicate and download data based on granular
       permissions
+
+
+      **Centralized cataloging, visibility and control**
+
+
+      Bitdomain admins can manage unlimited bitdomains for their organization
+      and enjoy full control and monitoring of all data. 
     actions:
       - label: View Demo
         url: '#'

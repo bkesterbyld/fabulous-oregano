@@ -25,7 +25,7 @@ sections:
         options:
           - I'd like a demo
           - Send information
-          - 'Let me know when I can '
+          - Let me know when I can trial this on my own
       - input_type: textarea
         name: message
         label: Company or project description

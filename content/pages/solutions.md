@@ -52,6 +52,7 @@ sections:
       - label: See Key Features
         url: /features
         style: secondary
+        has_icon: true
 seo:
   title: Features
   description: This is the features page

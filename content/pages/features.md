@@ -27,7 +27,7 @@ sections:
       the scenes.
 
 
-      Data management with a visual programming language
+      **Data management with a visual programming language**
 
 
       No code logic agents give you query and data management capability along
@@ -40,18 +40,16 @@ sections:
       and business logic**
 
 
-      Parallel, in-memory and edge processing are available via no code logic
-      agents that can process massive, disparate data sets, often in sub-second
-      timeframes
+      Parallel, in-memory and edge processing  process massive, disparate data
+      sets, often in sub-second timeframes
 
 
       **Bespoke, globally distributed data views for each data consumer**
 
 
-      You can create and position our equivalent of a  [materialized
-      view](https://en.wikipedia.org/wiki/Materialized_view) across the world.
-      These views cut down or eliminate on the number of queries your partners
-      have to construct on their side. Views can live on memory or on disk.
+      Create and position the equivalent of a  [materialized
+      view](https://en.wikipedia.org/wiki/Materialized_view) across the world,
+      cutting down partner queries and delivering instant data response to them.
 
 
       **Unmatched, granular API access control**

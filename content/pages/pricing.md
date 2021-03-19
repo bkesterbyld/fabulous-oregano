@@ -32,7 +32,7 @@ sections:
           *   Limited Support
         highlight: true
         actions:
-          - label: Order Now
+          - label: Learn More
             url: /contact
             style: primary
       - title: Enterprise

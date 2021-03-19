@@ -7,7 +7,7 @@ sections:
     image: images/undraw_safe_bnk7.svg
     image_alt: App preview on a phone and tablet
     title: Solutions
-    content: >
+    content: >+
       **Supply Chain**
 
 
@@ -37,6 +37,12 @@ sections:
       e-commerce leaders use bitdomains to get data to external agencies who
       develop and maintain corporate web and marketing sites that need company
       back office or customer data.
+
+
+      **GDPR and Privacy Compliance**
+
+      Bitdomains can store selective 
+
     actions:
       - label: Free Trial
         url: /signup

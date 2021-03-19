@@ -79,7 +79,7 @@ sections:
         url: /solutions
         style: primary
 seo:
-  title: Stackbit Azimuth Theme
+  title: 'bitdomain - zero trust, secure cloud data exchange'
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'

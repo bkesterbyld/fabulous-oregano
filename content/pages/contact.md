@@ -35,7 +35,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted. We never share your data with third parties. Period.
         is_required: true
-    submit_label: Send Message
+    submit_label: Submit
 seo:
   title: Contact
   description: This is the contact page

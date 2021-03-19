@@ -61,7 +61,7 @@ sections:
           location (Western US, Eastern US, Europe, Asia) your domain runs on
           but we are not providing you either databases or instances. You get a
           slice of our overall compute.
-      - question: What's a domain?
+      - question: What's a user?
         answer: >+
           A user is any person or system that needs to login in to your
           bitdomain(s).

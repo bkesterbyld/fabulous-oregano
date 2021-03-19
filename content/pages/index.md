@@ -70,7 +70,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Learn about our solutions
-    subtitle: Drop us a line for more information or a demo
+    subtitle: >-
+      We help with supply chain, privacy, application unification and other use
+      cases
     actions:
       - label: Get Started
         url: /contact

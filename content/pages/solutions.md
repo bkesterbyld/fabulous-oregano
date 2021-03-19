@@ -27,13 +27,13 @@ sections:
 
       Product management leaders responsible for multiple software products use
       bitdomains to create a unified API for customers, or to build new
-      interfaces on top of legacy products.
+      interfaces and service on top of legacy products.
 
 
       **Agency & SI Collaboration**
 
 
-      e-commerce leaders use bitdomains to get back office data to service
+      Commerce leaders use bitdomains to get back office data to service
       providers working on digital marketing or systems integration projects.
 
 

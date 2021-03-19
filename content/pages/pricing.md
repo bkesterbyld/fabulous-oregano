@@ -66,7 +66,7 @@ sections:
           A user is any person or system that needs to login in to your
           bitdomain(s).
 
-      - question: What's a domain?
+      - question: How do I prevent lock-in?
         answer: >+
           We put your bit domain at the cloud provider (AWS, Azure, Digital
           Ocean) of choice and you have full download and API access to your

@@ -18,7 +18,7 @@ sections:
       computing experience
 
 
-      **Multidata modeling and mappings to source systems to create **
+      **Multidata modeling and mappings to source systems**
 
 
       Easy to do in no code data tables that also support document-based
@@ -28,8 +28,7 @@ sections:
       technologies or interact with them, bitdomains take care of that for you.
 
 
-      **Data manipulations, analytics & business logic to generate insight and
-      automations**
+      **Data manipulations, analytics & business logic**
 
 
       No code logic agents give you query and data management capability along
@@ -40,8 +39,8 @@ sections:
       analytics.
 
 
-      **Powerful compute options to handle intense scenarios, including AI and
-      ML processing**
+      **Powerful compute options to handle intense transformations, calculations
+      and business logic**
 
 
       Parallel, in-memory and edge processing are available via no code logic
@@ -49,8 +48,7 @@ sections:
       timeframes
 
 
-      **Views segment exactly what you want to share, and can be positioned
-      globally next to your data consumer**
+      **Bespoke, globally distributed data views for each data consumer**
 
 
       You can create and position our equivalent of a  [materialized

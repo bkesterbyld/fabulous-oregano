@@ -12,31 +12,29 @@ sections:
 
 
       Supply chain professionals and 3PLs use bitdomains to establish
-      intercompany visibility and control of orders and inventory across complex
-      supply networks.
+      intercompany visibility and control across trading partners.
 
 
       **Tech Vendor Evaluation**
 
 
-      IT Directors use bitdomains to provide trial data access while evaluating
-      new software solutions and running conference room pilots.
+      IT Directors use bitdomains to provide real world test data to evaluate
+      potential tech purchases.
 
 
       **Application & API Consolidation**
 
 
-      Product management leaders who are responsible for multiple software
-      products use bitdomains to create a unified API for customers, or to build
-      new applications on top of legacy products.
+      Product management leaders responsible for multiple software products use
+      bitdomains to create a unified API for customers, or to build new
+      interfaces on top of legacy products.
 
 
       **Agency & SI Collaboration**
 
 
-      e-commerce leaders use bitdomains to get data to external agencies who
-      develop and maintain corporate web and marketing sites that need company
-      back office or customer data.
+      e-commerce leaders use bitdomains to get back office data to service
+      providers working on digital marketing or systems integration projects.
 
 
       **GDPR and Privacy Compliance**

@@ -21,21 +21,21 @@ sections:
 
 
       Create no code data, fully relational tables that also support
-      document-based modeling for JSON-type data. 
+      document-based modeling for JSON-type data.
 
 
       **Data management with a visual programming language**
 
 
       No code logic agents give you query and data management capability along
-      with the power of imperative programming languages like Java and C. 
+      with the power of imperative programming languages like Java and C.
 
 
       **Powerful compute options to handle intense transformations, calculations
       and business logic**
 
 
-      Parallel, in-memory and edge processing  process massive, disparate data
+      Parallel, in-memory and edge compute  process massive, disparate data
       sets, often in sub-second timeframes
 
 

@@ -17,7 +17,7 @@ sections:
           *   100,000 rows
           *   Rolling 30 day retention
         actions:
-          - label: Order Now
+          - label: Learn More
             url: /contact
             style: secondary
       - title: Pro

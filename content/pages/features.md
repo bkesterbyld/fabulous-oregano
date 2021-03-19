@@ -68,8 +68,8 @@ sections:
       **Centralized cataloging, visibility and control**
 
 
-      Bitdomain admins can manage unlimited bitdomains for their organization
-      and enjoy full control and monitoring of all data. 
+      Bitdomain platform admins can manage unlimited bitdomains for their
+      organization and enjoy full control and monitoring of all data.
     actions:
       - label: View Demo
         url: '#'

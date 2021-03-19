@@ -74,7 +74,7 @@ sections:
       We help with supply chain, privacy, application unification and other use
       cases
     actions:
-      - label: Get Started
+      - label: Solutions
         url: /contact
         style: primary
 seo:

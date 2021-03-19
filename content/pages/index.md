@@ -69,7 +69,7 @@ sections:
     title: A zero trust cloud data DMZ for developers and application owners
   - section_id: call-to-action
     type: section_cta
-    title: Ready to learn more?
+    title: Learn about our solutions
     subtitle: Drop us a line for more information or a demo
     actions:
       - label: Get Started

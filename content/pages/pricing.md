@@ -33,7 +33,7 @@ sections:
         highlight: true
         actions:
           - label: Order Now
-            url: /signup
+            url: /contact
             style: primary
       - title: Enterprise
         subtitle: For departments

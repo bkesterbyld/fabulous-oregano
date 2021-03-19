@@ -7,7 +7,7 @@ sections:
     image: images/undraw_safe_bnk7.svg
     image_alt: App preview on a phone and tablet
     title: Solutions
-    content: >+
+    content: >
       **Supply Chain**
 
 
@@ -41,8 +41,10 @@ sections:
 
       **GDPR and Privacy Compliance**
 
-      Bitdomains can store selective 
 
+      Application owners and data engineers use bitdomains to keep sensitive
+      data in required countries, while replicating non-sensitive data back to
+      master sets.
     actions:
       - label: Free Trial
         url: /signup

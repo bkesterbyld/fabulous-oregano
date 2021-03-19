@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image_alt: App preview on a phone and tablet
+    image_alt: Bitdomain platform
     title: 'Easy, Secure and Infinitely Scalable'
     content: >
       Bitdomains are next generation virtualized computing spaces that operates

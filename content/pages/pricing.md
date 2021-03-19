@@ -18,7 +18,7 @@ sections:
           *   Rolling 30 day retention
         actions:
           - label: Order Now
-            url: /signup
+            url: /contact
             style: secondary
       - title: Pro
         subtitle: For teams

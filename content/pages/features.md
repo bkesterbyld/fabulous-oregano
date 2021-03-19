@@ -75,7 +75,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Ready to learn more?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Drop us a line for more information or a demo
     actions:
       - label: Get Started
         url: '#'

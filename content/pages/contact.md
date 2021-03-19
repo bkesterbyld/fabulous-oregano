@@ -5,10 +5,9 @@ sections:
     type: section_contact
     background: gray
     title: Learn More or Get a Demo
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      Drop us a line if you'd like to learn more, get a demo, or be notified
+      when our free trial option is available for online signup. 
     form_id: contactForm
     form_fields:
       - input_type: text

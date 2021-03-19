@@ -33,7 +33,7 @@ sections:
       **Agency & SI Collaboration**
 
 
-      e-commerce leaders use bitdomains to get back office data to service
+      Commerce leaders use bitdomains to get back office data to service
       providers working on digital marketing or systems integration projects.
 
 

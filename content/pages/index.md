@@ -75,7 +75,7 @@ sections:
       privacy compliance, application unification and other modern data
       management challenges
     actions:
-      - label: Solutions
+      - label: See Solutions
         url: /solutions
         style: primary
         has_icon: true

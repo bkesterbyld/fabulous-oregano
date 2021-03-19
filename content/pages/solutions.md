@@ -53,6 +53,7 @@ sections:
         url: /features
         style: secondary
         has_icon: true
+        icon_position: right
 seo:
   title: Features
   description: This is the features page

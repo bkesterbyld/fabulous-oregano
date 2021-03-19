@@ -37,7 +37,7 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: For departments
-        price: '$1,999/mo'
+        price: $999/mo
         details: |
           *   Unlimited domains
           *   Unlimited datasets

@@ -20,8 +20,10 @@ sections:
       **Multidata modeling and mappings to source systems**
 
 
-      Create no code data, fully relational tables that also support
-      document-based modeling for JSON-type data.
+      Create no code data, fully relational tables that also support JSON-type
+      document and unstructured data. Bitdomain is the only platform in the
+      world that can manage multiple data types, including file storage, from a
+      single interface.
 
 
       **Data management with a visual programming language**

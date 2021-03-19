@@ -72,26 +72,26 @@ sections:
     title: Learn about our solutions
     subtitle: >-
       Bitdomains drive security and efficiency in supply chain collaboration,
-      privacy compliance, application unification and other modern challenges
+      privacy compliance, application unification and other modern data
+      management challenges
     actions:
       - label: Solutions
         url: /solutions
         style: primary
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: 'bitdomain - zero trust, secure cloud data exchange'
+  description: >-
+    Collaborate with internal teams and external parties without exposing your
+    production data, APIs or DB credentials to any person or system
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
-      keyName: property
-    - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: 'bitdomain - zero trust, secure cloud data exchange'
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /images/bitdomainlogo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -103,5 +103,11 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Collaborate with internal teams and external parties without exposing
+        your production data, APIs or DB credentials to any person or system
+      keyName: property
+      relativeUrl: false
 layout: landing
 ---

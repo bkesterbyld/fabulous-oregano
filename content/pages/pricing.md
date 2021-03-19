@@ -67,16 +67,20 @@ sections:
           bitdomain(s).
 
       - question: Can I get my data out?
-        answer: >+
-          We put your bit domain at the cloud provider (AWS, Azure, Digital
-          Ocean) of choice and you have full download and API access to your
-          data. At most providers, there is no egress charges for you to have
-          your own DB instance at that particular data center. So you can get
-          your data out, generally, at no incremental cost to you. We are also
-          planning an on prem option where you can setup a master bitdomain in
-          your own data center, and then replicate data sets out to through
-          bitdomain's public cloud network.
+        answer: >
+          We put your bit domain at a cloud provider (AWS, Azure, Digital Ocean)
+          you choose where you have full download and API access to your data.
+          At most providers, there is no egress charges for you to transfer to
+          an owned DB instance at that particular data center. So you can get
+          your data out, generally, at no incremental cost to you. And if you
+          need to spin down data sharing for a long period, you can export your
+          data models and data into a format that can be re-uploaded into
+          bitdomain when you want to come back. 
 
+
+          We are also planning an on prem option where you can setup a master
+          bitdomain in your own data center, and then replicate data sets out to
+          bitdomain's public cloud network.
     subtitle: Let us know if you have more at help@bitdomain.dev
 seo:
   title: Pricing

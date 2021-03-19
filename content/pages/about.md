@@ -1,9 +1,9 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-image: images/about.jpg
+  We're advanced problem solvers making difficult, techinical computing tasks
+  easy for anybody
+image: images/20161201_162410_001.jpg
 image_alt: Team members in a conference room
 seo:
   title: About Us
@@ -33,7 +33,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+The bitdomain team pioneered the cloud supply chain and IoT markets, where we lived at the intersection of massive data, disparate parties and real-time decision-making. As our customer's sensor networks grew, their data management complexity increased exponentially, and started flirting with the edges of computer science. We kept trying to get off-the-shelf technologies to solve this intersection economically, but nothing worked. We broke both open source tech and advanced products from companies like Oracle, SAP and IBM. So we took a page from VMware and thought, what if we virtualized infrastructure away? And then what if we make it distributed? And hence, bitdomains were born.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+The core technology of bitdomains is safe, reliable and extremely secure. It's proven with several confidential customers and at companies like HPE, Tesla, Facebook, Amazon, Microsoft, BAE Systems and Northrup Grumman.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+The company is based in the Bay Area and is backed by prominent Silicon Valley investors and family offices.

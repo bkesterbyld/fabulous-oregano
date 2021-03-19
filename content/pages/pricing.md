@@ -5,42 +5,46 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: Try us out for free!
     pricing_plans:
       - title: Basic
-        subtitle: For small businesses
-        price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        subtitle: For solo developers
+        price: free
+        details: |
+          *   1 bitdomain
+          *   10 data sets
+          *   2 users
+          *   100,000 rows
+          *   Rolling 30 day retention
         actions:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Professional
-        subtitle: For medium-sized businesses
-        price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+      - title: Pro
+        subtitle: For teams
+        price: $199/mo
+        details: |
+          *   2 bitdomains
+          *   20 data sets
+          *   5 users
+          *   1M rows
+          *   60 day retention
+          *   Limited Support
         highlight: true
         actions:
           - label: Order Now
             url: /signup
             style: primary
       - title: Enterprise
-        subtitle: For very large businesses
-        price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        subtitle: For departments
+        price: '$1,999/mo'
+        details: |
+          *   Unlimited domains
+          *   Unlimited datasets
+          *   starts at 20 users
+          *   starts at 5M rows
+          *   starts at 6 month retention
+          *   Full support and SLA
         actions:
           - label: Order Now
             url: /signup
@@ -49,29 +53,29 @@ sections:
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     faq_items:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
-        answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
-      - question: Aliquam eget purus ante?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
-      - question: Sed scelerisque in ipsum eu sollicitudin?
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+      - question: What's a domain?
+        answer: >
+          A domain is a virtual computing space in our global processing
+          network. You can pick what provider (AWS, Azure, Digital Ocean) and
+          location (Western US, Eastern US, Europe, Asia) your domain runs on
+          but we are not providing you either databases or instances. You get a
+          slice of our overall compute.
+      - question: How do I prevent lock-in?
+        answer: >
+          We put your bit domain at the cloud provider (AWS, Azure, Digital
+          Ocean) of choice and you have full download and API access to your
+          data. At most providers, there is no egress charges for you to have
+          your own DB instance at that particular data center. So you can get
+          your data out, generally, at no incremental cost to you. We are also
+          planning an on prem option where you can setup a master bitdomain in
+          your own data center, and then replicate data sets out to through
+          bitdomain's public cloud network.
+      - question: What's a user?
+        answer: >
+          A user is any person or system that needs to login in to your
+          bitdomain(s). 
+    subtitle: Let us know if you have more at help@bitdomain.dev
 seo:
   title: Pricing
   description: This is the pricing page

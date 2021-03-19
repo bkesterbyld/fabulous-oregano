@@ -47,7 +47,7 @@ sections:
           *   Full support and SLA
         actions:
           - label: Order Now
-            url: /signup
+            url: /contact
             style: secondary
   - section_id: faq
     type: section_faq

@@ -80,6 +80,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
+        icon_position: right
 seo:
   title: 'bitdomain - zero trust, secure cloud data exchange'
   description: >-

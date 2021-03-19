@@ -50,7 +50,7 @@ sections:
     subtitle: Drop us a line for more info or a demo
     actions:
       - label: See Key Features
-        url: /contact
+        url: /features
         style: secondary
 seo:
   title: Features

@@ -44,7 +44,7 @@ sections:
           *   starts at 20 users
           *   starts at 3M rows
           *   starts at 6 month retention
-          *   Full support and SLA
+          *   Full support and optional SLA
         actions:
           - label: Learn More
             url: /contact

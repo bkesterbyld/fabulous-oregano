@@ -52,7 +52,7 @@ sections:
     subtitle: Drop us a line for more info or a demo
     actions:
       - label: Get Started
-        url: '#'
+        url: /contact
         style: secondary
 seo:
   title: Features

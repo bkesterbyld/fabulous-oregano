@@ -46,7 +46,7 @@ sections:
           *   starts at 6 month retention
           *   Full support and SLA
         actions:
-          - label: Order Now
+          - label: Learn More
             url: /contact
             style: secondary
   - section_id: faq

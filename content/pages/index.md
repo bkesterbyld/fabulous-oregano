@@ -66,13 +66,13 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: A zero trust cloud data DMZ for developers and application owners
+    title: zero trust cloud data DMZ for developers and application owners
   - section_id: call-to-action
     type: section_cta
     title: Learn about our solutions
     subtitle: >-
-      Bitdomains drive value in supply chain collaboration, privacy compliance,
-      application unification and other modern challenges
+      Bitdomains drive security and efficiency in supply chain collaboration,
+      privacy compliance, application unification and other modern challenges
     actions:
       - label: Solutions
         url: /solutions

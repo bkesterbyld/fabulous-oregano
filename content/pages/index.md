@@ -78,6 +78,7 @@ sections:
       - label: Solutions
         url: /solutions
         style: primary
+        has_icon: true
 seo:
   title: 'bitdomain - zero trust, secure cloud data exchange'
   description: >-

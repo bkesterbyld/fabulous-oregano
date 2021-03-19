@@ -71,9 +71,6 @@ sections:
       Via a robust access control system, business people and data scientists
       can login to view, search and download data based on granular permissions
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
       - label: View Demo
         url: '#'
         style: secondary

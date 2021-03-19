@@ -46,7 +46,7 @@ sections:
     actions: []
   - section_id: call-to-action
     type: section_cta
-    title: Ready to learn more?
+    title: Explore bitdomain features
     subtitle: Drop us a line for more info or a demo
     actions:
       - label: Get Started

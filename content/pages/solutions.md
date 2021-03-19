@@ -47,7 +47,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Explore bitdomain features
-    subtitle: Drop us a line for more info or a demo
+    subtitle: Learn how it all works
     actions:
       - label: See Key Features
         url: /features

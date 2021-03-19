@@ -24,11 +24,11 @@ sections:
         image: images/publish.png
         image_alt: App preview on a phone and tablet
         content: >
-          Rapidly model the structured or unstructured data you want to share
-          between parties with easy no code tools. Then connect into a Bitdomain
-          via API or our integration platform partners. Behind the scenes, we
-          put this intermediate data in safe, reliable and economical SQL, NoSQL
-          and object stores in a multicloud network
+          Rapidly model the data you want to share between parties with easy no
+          code tools. Then transfer data into a Bitdomain via API or our
+          integration platform partners. Behind the scenes, we put this
+          intermediate data in safe and economical SQL, NoSQL and object stores
+          in a multicloud network
         actions:
           - label: Learn More
             url: /features
@@ -41,8 +41,8 @@ sections:
         image_alt: App users welcoming a new member
         content: >
           Create no code logic agents that transform, aggregate and analyze data
-          in real-time. They act based on events, or can be set to run on timers
-          to create period analytics or reports.
+          in real-time. They act based on events, or can run on timers to create
+          period analytics and reports.
         actions:
           - label: Learn More
             url: /features
@@ -55,10 +55,10 @@ sections:
         image_alt: App user profile preview
         content: >
           Data sets can be replicated for different data consumers and put
-          wherever they are needed globally. You can select from granular API
-          key options including controlling access by data sets, fields, logic
-          agents and by time windows. You can even get an API key for a specific
-          piece of data. 
+          wherever needed globally. You can select from granular API key options
+          including controlling access by data sets, fields, logic agents and by
+          time windows. You can even grant an API key for a specific piece of
+          data.
         actions:
           - label: Learn More
             url: /features

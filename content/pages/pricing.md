@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: Try us out for free!
+    subtitle: Try a bitdomain for free!
     pricing_plans:
       - title: Basic
         subtitle: For solo developers
@@ -14,7 +14,7 @@ sections:
           *   1 bitdomain
           *   10 data sets
           *   2 users
-          *   100,000 rows
+          *   100K rows
           *   Rolling 30 day retention
         actions:
           - label: Learn More
@@ -27,7 +27,7 @@ sections:
           *   2 bitdomains
           *   20 data sets
           *   5 users
-          *   1M rows
+          *   500K rows
           *   60 day retention
           *   Limited Support
         highlight: true
@@ -37,14 +37,14 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: For departments
-        price: '$1,999/mo'
+        price: $999/mo
         details: |
           *   Unlimited domains
           *   Unlimited datasets
           *   starts at 20 users
-          *   starts at 5M rows
+          *   starts at 3M rows
           *   starts at 6 month retention
-          *   Full support and SLA
+          *   Full support and optional SLA
         actions:
           - label: Learn More
             url: /contact
@@ -66,17 +66,21 @@ sections:
           A user is any person or system that needs to login in to your
           bitdomain(s).
 
-      - question: How do I prevent lock-in?
-        answer: >+
-          We put your bit domain at the cloud provider (AWS, Azure, Digital
-          Ocean) of choice and you have full download and API access to your
-          data. At most providers, there is no egress charges for you to have
-          your own DB instance at that particular data center. So you can get
-          your data out, generally, at no incremental cost to you. We are also
-          planning an on prem option where you can setup a master bitdomain in
-          your own data center, and then replicate data sets out to through
-          bitdomain's public cloud network.
+      - question: Can I get my data out?
+        answer: >
+          We put your bit domain at a cloud provider (AWS, Azure, Digital Ocean)
+          you choose where you have full download and API access to your data.
+          At most providers, there is no egress charges for you to transfer to
+          an owned DB instance at that particular data center. So you can get
+          your data out, generally, at no incremental cost to you. And if you
+          need to spin down data sharing for a long period, you can export your
+          data models and data into a format that can be re-uploaded into
+          bitdomain when you want to come back. 
 
+
+          We are also planning an on prem option where you can setup a master
+          bitdomain in your own data center, and then replicate data sets out to
+          bitdomain's public cloud network.
     subtitle: Let us know if you have more at help@bitdomain.dev
 seo:
   title: Pricing

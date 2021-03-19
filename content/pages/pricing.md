@@ -71,7 +71,7 @@ sections:
           planning an on prem option where you can setup a master bitdomain in
           your own data center, and then replicate data sets out to through
           bitdomain's public cloud network.
-      - question: What's a user?
+      - question: What's a domain?
         answer: >+
           We put your bit domain at the cloud provider (AWS, Azure, Digital
           Ocean) of choice and you have full download and API access to your

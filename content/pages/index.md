@@ -75,7 +75,7 @@ sections:
       cases
     actions:
       - label: Solutions
-        url: /contact
+        url: /solutions
         style: primary
 seo:
   title: Stackbit Azimuth Theme

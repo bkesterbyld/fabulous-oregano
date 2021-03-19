@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: Try us out for free!
+    subtitle: Try a bitdomain for free!
     pricing_plans:
       - title: Basic
         subtitle: For solo developers

@@ -4,8 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/featuress.png
-    image_alt: App preview on a phone and tablet
+    image_alt: Bitdomain platform
     title: 'Easy, Secure and Infinitely Scalable'
     content: >
       Bitdomains are next generation virtualized computing spaces that operates
@@ -21,22 +20,24 @@ sections:
       **Multidata modeling and mappings to source systems**
 
 
-      Create no code data, fully relational tables that also support
-      document-based modeling for JSON-type data. 
+      Create no code data, fully relational tables that also support JSON-type
+      document and unstructured data. Bitdomain is the only platform in the
+      world that can manage multiple data types, including file storage, from a
+      single interface.
 
 
       **Data management with a visual programming language**
 
 
       No code logic agents give you query and data management capability along
-      with the power of imperative programming languages like Java and C. 
+      with the power of imperative programming languages like Java and C.
 
 
       **Powerful compute options to handle intense transformations, calculations
       and business logic**
 
 
-      Parallel, in-memory and edge processing  process massive, disparate data
+      Parallel, in-memory and edge compute  process massive, disparate data
       sets, often in sub-second timeframes
 
 
@@ -60,11 +61,20 @@ sections:
 
 
       Via a robust access control system, business people and data scientists
-      can login to view, search and download data based on granular permissions
+      can login to view, search replicate and download data based on granular
+      permissions
+
+
+      **Centralized cataloging, visibility and control**
+
+
+      Bitdomain platform admins can manage unlimited bitdomains for their
+      organization and enjoy full control and monitoring of all data.
     actions:
       - label: View Demo
         url: '#'
         style: secondary
+    image: images/featuress.png
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!

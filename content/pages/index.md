@@ -80,7 +80,9 @@ sections:
         style: primary
 seo:
   title: 'bitdomain - zero trust, secure cloud data exchange'
-  description: The preview of the Azimuth theme
+  description: >-
+    Collaborate with internal teams and external parties without exposing your
+    production data, APIs or DB credentials to any person or system
   extra:
     - name: 'og:type'
       value: website

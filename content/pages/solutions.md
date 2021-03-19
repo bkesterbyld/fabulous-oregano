@@ -45,20 +45,14 @@ sections:
       Application owners and data engineers use bitdomains to keep sensitive
       data in required countries, while replicating non-sensitive data back to
       master sets.
-    actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
-      - label: View Demo
-        url: '#'
-        style: secondary
+    actions: []
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Ready to learn more?
+    subtitle: Drop us a line for more info or a demo
     actions:
       - label: Get Started
-        url: '#'
+        url: /contact
         style: secondary
 seo:
   title: Features

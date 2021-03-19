@@ -17,8 +17,8 @@ sections:
           *   100,000 rows
           *   Rolling 30 day retention
         actions:
-          - label: Order Now
-            url: /signup
+          - label: Learn More
+            url: /contact
             style: secondary
       - title: Pro
         subtitle: For teams
@@ -32,8 +32,8 @@ sections:
           *   Limited Support
         highlight: true
         actions:
-          - label: Order Now
-            url: /signup
+          - label: Learn More
+            url: /contact
             style: primary
       - title: Enterprise
         subtitle: For departments
@@ -46,8 +46,8 @@ sections:
           *   starts at 6 month retention
           *   Full support and SLA
         actions:
-          - label: Order Now
-            url: /signup
+          - label: Learn More
+            url: /contact
             style: secondary
   - section_id: faq
     type: section_faq
@@ -61,8 +61,13 @@ sections:
           location (Western US, Eastern US, Europe, Asia) your domain runs on
           but we are not providing you either databases or instances. You get a
           slice of our overall compute.
+      - question: What's a user?
+        answer: >+
+          A user is any person or system that needs to login in to your
+          bitdomain(s).
+
       - question: How do I prevent lock-in?
-        answer: >
+        answer: >+
           We put your bit domain at the cloud provider (AWS, Azure, Digital
           Ocean) of choice and you have full download and API access to your
           data. At most providers, there is no egress charges for you to have
@@ -71,10 +76,7 @@ sections:
           planning an on prem option where you can setup a master bitdomain in
           your own data center, and then replicate data sets out to through
           bitdomain's public cloud network.
-      - question: What's a user?
-        answer: >
-          A user is any person or system that needs to login in to your
-          bitdomain(s). 
+
     subtitle: Let us know if you have more at help@bitdomain.dev
 seo:
   title: Pricing

@@ -73,7 +73,7 @@ sections:
     subtitle: Drop us a line for more information or a demo
     actions:
       - label: Get Started
-        url: /signup
+        url: /contact
         style: primary
 seo:
   title: Stackbit Azimuth Theme

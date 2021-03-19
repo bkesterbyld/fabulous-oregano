@@ -30,7 +30,7 @@
             },
             {
                 "label": "Get a Demo",
-                "url": "/signup",
+                "url": "/contact",
                 "style": "primary"
             }
         ]
@@ -42,7 +42,7 @@
                 "image": "images/bdlogo4-white.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "secure cloud data exchanges\n"
+                "content": "zero trust cloud data exchange\n"
             },
             {
                 "type": "footer_nav",
@@ -51,11 +51,6 @@
                     {
                         "label": "About Us",
                         "url": "/about",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Sign Up",
-                        "url": "/signup",
                         "style": "link"
                     },
                     {

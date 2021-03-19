@@ -70,15 +70,12 @@ sections:
 
       Bitdomain platform admins can manage unlimited bitdomains for their
       organization and enjoy full control and monitoring of all data.
-    actions:
-      - label: View Demo
-        url: '#'
-        style: secondary
+    actions: []
     image: images/featuress.png
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Ready to learn more?
+    subtitle: Drop us a line for more information or a demo
     actions:
       - label: Get Started
         url: '#'

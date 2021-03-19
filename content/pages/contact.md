@@ -4,11 +4,10 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    title: Learn More or Get a Demo
+    content: >
+      Drop us a line if you'd like to learn more, get a demo, or be notified
+      when our free trial option is available for online signup. 
     form_id: contactForm
     form_fields:
       - input_type: text
@@ -21,22 +20,22 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
+        label: Should we contact you?
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - I'd like a demo
+          - Send information
+          - Let me know when I can trial this on my own
       - input_type: textarea
         name: message
-        label: Message
+        label: Company or project description
       - input_type: checkbox
         name: consent
         label: >-
           I understand that this form is storing my submitted information so I
-          can be contacted.
+          can be contacted. We never share your data with third parties. Period.
         is_required: true
-    submit_label: Send Message
+    submit_label: Submit
 seo:
   title: Contact
   description: This is the contact page

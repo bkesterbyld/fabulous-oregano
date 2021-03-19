@@ -72,7 +72,8 @@ sections:
     title: Learn about our solutions
     subtitle: >-
       Bitdomains drive security and efficiency in supply chain collaboration,
-      privacy compliance, application unification and other modern challenges
+      privacy compliance, application unification and other modern data
+      management challenges
     actions:
       - label: Solutions
         url: /solutions

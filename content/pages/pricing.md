@@ -75,6 +75,21 @@ sections:
         answer: >
           A user is any person or system that needs to login in to your
           bitdomain(s). 
+      - question: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: faq_item
     subtitle: Let us know if you have more at help@bitdomain.dev
 seo:
   title: Pricing

@@ -69,11 +69,13 @@ sections:
     title: A zero trust cloud data DMZ for developers and application owners
   - section_id: call-to-action
     type: section_cta
-    title: Ready to learn more?
-    subtitle: Drop us a line for more information or a demo
+    title: Learn about our solutions
+    subtitle: >-
+      Bitdomains drive value in supply chain collaboration, privacy compliance,
+      application unification and other modern challenges
     actions:
-      - label: Get Started
-        url: /contact
+      - label: Solutions
+        url: /solutions
         style: primary
 seo:
   title: Stackbit Azimuth Theme

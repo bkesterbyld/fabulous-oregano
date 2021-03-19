@@ -54,6 +54,7 @@ sections:
         style: secondary
         has_icon: true
         icon_position: right
+        icon: arrow-right
 seo:
   title: Features
   description: This is the features page

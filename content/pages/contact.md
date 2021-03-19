@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - I'd like a demo
-          - Sponsorship
+          - 'Send '
           - Other
       - input_type: textarea
         name: message

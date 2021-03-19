@@ -24,11 +24,11 @@ sections:
         image: images/publish.png
         image_alt: App preview on a phone and tablet
         content: >
-          Rapidly model the structured or unstructured data you want to share
-          between parties with easy no code tools. Then connect into a Bitdomain
-          via API or our integration platform partners. Behind the scenes, we
-          put this intermediate data in safe, reliable and economical SQL, NoSQL
-          and object stores in a multicloud network
+          Rapidly model the data you want to share between parties with easy no
+          code tools. Then transfer data into a Bitdomain via API or our
+          integration platform partners. Behind the scenes, we put this
+          intermediate data in safe and economical SQL, NoSQL and object stores
+          in a multicloud network
         actions:
           - label: Learn More
             url: /features

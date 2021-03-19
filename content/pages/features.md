@@ -18,36 +18,58 @@ sections:
       computing experience
 
 
-      *   Data modeling and mapping to source systems is via familiar tables,
-      while supporting JSON and document-based concepts. Data can be fully
-      relational.
+      **Multidata modeling and mappings to source systems**
 
-      *   We use PostgreSQL, Cassandra and various object stores from cloud
-      providers to handle storage, but you don't have to know anything about
-      those technologies or interact with them, bitdomains take care of that for
-      you.
 
-      *   No code logic agents give you query and data management capability
-      along with the power of imperative programming languages like Java and C.
-      Logic agents are housed in a bitdomain but can operate on other
-      bitdomains. They execute based on events such as a data update or form
-      submission. They can also execute based on timers to generate reports and
-      near-real time analytics.
+      Easy to do in no code data tables that also support document-based
+      modeling for JSON-type data. Data can be fully relational. We use
+      PostgreSQL, Cassandra and various object stores from cloud providers to
+      handle storage, but you don't have to know anything about those
+      technologies or interact with them, bitdomains take care of that for you.
 
-      *   Parallel, in-memory and edge processing available via no code logic
-      agents can process massive, disparate data sets, often in sub-second
+
+      **Data manipulations, analytics & business logic**
+
+
+      No code logic agents give you query and data management capability along
+      with the power of imperative programming languages like Java and C. Logic
+      agents are housed in a bitdomain but can operate on other bitdomains. They
+      execute based on events such as a data update or form submission. They can
+      also execute based on timers to generate reports and near-real time
+      analytics.
+
+
+      **Powerful compute options to handle intense transformations, calculations
+      and business logic**
+
+
+      Parallel, in-memory and edge processing are available via no code logic
+      agents that can process massive, disparate data sets, often in sub-second
       timeframes
 
-      *   You can create and position our equivalent of a  [materialized
+
+      **Bespoke, globally distributed data views for each data consumer**
+
+
+      You can create and position our equivalent of a  [materialized
       view](https://en.wikipedia.org/wiki/Materialized_view) across the world.
-      Views can live on memory or on disk.
+      These views cut down or eliminate on the number of queries your partners
+      have to construct on their side. Views can live on memory or on disk.
 
-      *   The system constantly generates unique API identifiers for data
-      tables, fields and logic commands to provide granular security
 
-      *   Via a robust access control system, business people and data
-      scientists can login to view, search and download data based on granular
-      permissions
+      **Unmatched, granular API access control**
+
+
+      The system constantly generates unique API identifiers for data tables,
+      fields and logic commands to provide granular security—even actual data
+      can have it's own API identifier.
+
+
+      **Accessible to business people and data scientists**
+
+
+      Via a robust access control system, business people and data scientists
+      can login to view, search and download data based on granular permissions
     actions:
       - label: Free Trial
         url: /signup

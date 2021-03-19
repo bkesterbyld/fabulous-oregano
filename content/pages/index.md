@@ -26,9 +26,9 @@ sections:
         content: >
           Rapidly model the structured or unstructured data you want to share
           between parties with easy no code tools. Then connect into a Bitdomain
-          via API or our integration partners. Behind the scenes, we put this
-          intermediate data in safe, reliable and economical SQL, NoSQL and
-          object stores in a multicloud network
+          via API or our integration platform partners. Behind the scenes, we
+          put this intermediate data in safe, reliable and economical SQL, NoSQL
+          and object stores in a multicloud network
         actions:
           - label: Learn More
             url: /features
@@ -41,8 +41,8 @@ sections:
         image_alt: App users welcoming a new member
         content: >
           Create no code logic agents that transform, aggregate and analyze data
-          in real-time. They act instantly upon incoming data and events, or can
-          be set to run on timers to create period analytics or reports.
+          in real-time. They act based on events, or can be set to run on timers
+          to create period analytics or reports.
         actions:
           - label: Learn More
             url: /features
@@ -57,7 +57,8 @@ sections:
           Data sets can be replicated for different data consumers and put
           wherever they are needed globally. You can select from granular API
           key options including controlling access by data sets, fields, logic
-          agents and by time windows.
+          agents and by time windows. You can even get an API key for a specific
+          piece of data. 
         actions:
           - label: Learn More
             url: /features

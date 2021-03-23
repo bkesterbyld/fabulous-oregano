@@ -11,7 +11,7 @@ sections:
       independently of the server infrastructure they run against. From a single
       bitdomain, you can replicate and segment data down to granular levels to
       give internal and external data consumers only what they need—nothing
-      more, nothing less. 
+      more, nothing less.
 
 
       Bitdomains blend several key features into a holistic, secure approach to
@@ -30,23 +30,23 @@ sections:
       **Data management with a visual programming interface**
 
 
-      No code logic agents give you query and data management capability along
-      with business logic assembly as powerful as imperative programming
-      languages like Java and C.
+      No code logic agents give you query, manipulation and calculation
+      capability as powerful as imperative programming languages like Java and
+      C.
 
 
       **Powerful compute options to handle intense transformations, calculations
       and business logic**
 
 
-      Parallel, in-memory and edge compute  process massive, disparate data
-      sets, often in sub-second timeframes
+      Parallel, in-memory and edge compute process massive, disparate data sets,
+      often in sub-second timeframes
 
 
       **Bespoke, globally distributed data views for each data consumer**
 
 
-      Create and position the equivalent of a  [materialized
+      Create and position the equivalent of a [materialized
       view](https://en.wikipedia.org/wiki/Materialized_view) across the world,
       cutting down custom queries and delivering instant data response to end
       users and clients
@@ -64,7 +64,7 @@ sections:
 
 
       Via a robust access control system, business people and data scientists
-      can login to view, search replicate and download data based on granular
+      can login to access, search and replicate data based on granular
       permissions
 
 

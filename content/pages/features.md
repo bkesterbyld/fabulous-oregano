@@ -8,13 +8,14 @@ sections:
     title: 'Easy, Secure and Infinitely Scalable'
     content: >
       Bitdomains are next generation virtualized computing spaces that operates
-      independently of the server infrastructure they run against. In many use
-      cases, bitdomains are more scalabe for real-time, disparate transactional
-      data processing than any custom system.
+      independently of the server infrastructure they run against. From a single
+      bitdomain, you can replicate and segment data down to granular levels to
+      give internal and external data consumers only what they need—nothing
+      more, nothing less. 
 
 
-      They blend several key features into a holistic, easy and hyper-scalable
-      computing experience
+      Bitdomains blend several key features into a holistic, secure approach to
+      internal and external data sharing:
 
 
       **Multidata modeling and mappings to source systems**

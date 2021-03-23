@@ -82,12 +82,6 @@ sections:
       - label: Get Started
         url: '#'
         style: secondary
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    reviews: []
-    type: section_reviews
 seo:
   title: Features
   description: This is the features page

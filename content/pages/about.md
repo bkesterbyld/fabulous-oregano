@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: >-
-  We're advanced problem solvers making difficult, techinical computing tasks
+  We're advanced problem solvers making difficult, technical computing tasks
   easy for anybody
 image: images/20161201_162410_001.jpg
 image_alt: Team members in a conference room
@@ -33,7 +33,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-The bitdomain team pioneered the cloud supply chain and IoT markets, where we lived at the intersection of massive data, disparate parties and real-time decision-making. As our customer's sensor networks grew, their data management complexity increased exponentially, and started flirting with the edges of computer science. We kept trying to get off-the-shelf technologies to solve this intersection economically, but nothing worked. We broke both open source tech and advanced products from companies like Oracle, SAP and IBM. So we took a page from VMware and thought, what if we virtualized infrastructure away? And then what if we make it distributed? And hence, bitdomains were born.
+The bitdomain team pioneered the cloud supply chain and IoT markets, where we lived at the intersection of massive data, disparate parties and real-time decision-making. As our customer's sensor networks grew, their data management complexity increased exponentially, and started flirting with the edges of computer science. We kept trying to get off-the-shelf technologies to solve this intersection economically, but nothing worked. We broke both open source tech and advanced products from companies like Oracle, SAP and IBM. So we took a page from VMware and thought, what if we virtualized infrastructure away? And then what if we make it distributed so we're never overtaxing any database ever? And hence, bitdomains were born.
 
 The core technology of bitdomains is safe, reliable and extremely secure. It's proven with several confidential customers and at companies like HPE, Tesla, Facebook, Amazon, Microsoft, BAE Systems and Northrup Grumman.
 

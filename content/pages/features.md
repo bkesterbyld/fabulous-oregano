@@ -20,17 +20,18 @@ sections:
       **Multidata modeling and mappings to source systems**
 
 
-      Create no code data, fully relational tables that also support JSON-type
-      document and unstructured data. Bitdomain is the only platform in the
-      world that can manage multiple data types, including file storage, from a
-      single interface.
+      Create no code, fully relational data models that support structured,
+      unstructured and file data. Bitdomains are ACID-compliant for
+      transactional data and we put everything in mature and reliable SQL, NoSQL
+      and object stores behind the scenes.
 
 
-      **Data management with a visual programming language**
+      **Data management with a visual programming interface**
 
 
       No code logic agents give you query and data management capability along
-      with the power of imperative programming languages like Java and C.
+      with business logic assembly as powerful as imperative programming
+      languages like Java and C.
 
 
       **Powerful compute options to handle intense transformations, calculations
@@ -46,7 +47,8 @@ sections:
 
       Create and position the equivalent of a  [materialized
       view](https://en.wikipedia.org/wiki/Materialized_view) across the world,
-      cutting down partner queries and delivering instant data response to them.
+      cutting down custom queries and delivering instant data response to end
+      users and clients
 
 
       **Unmatched, granular API access control**

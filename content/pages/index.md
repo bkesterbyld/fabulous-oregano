@@ -66,7 +66,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: zero trust cloud data DMZ for developers and application owners
+    title: zero trust cloud data sharing for developers and application owners
   - section_id: call-to-action
     type: section_cta
     title: Learn about our solutions

@@ -40,10 +40,10 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/bdlogo4-white.png",
+                "image": "images/bitdomain-white-10.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "zero trust cloud data DMZ\n"
+                "content": "secure cloud data sharing\n"
             },
             {
                 "type": "footer_nav",
@@ -58,6 +58,28 @@
                         "label": "Contact",
                         "url": "/contact",
                         "style": "link"
+                    },
+                    {
+                        "label": "Solutions",
+                        "url": "/solutions",
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "arrow-left",
+                        "icon_position": "left",
+                        "new_window": false,
+                        "no_follow": false,
+                        "type": "action"
+                    },
+                    {
+                        "label": "Features",
+                        "url": "/features",
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "arrow-left",
+                        "icon_position": "left",
+                        "new_window": false,
+                        "no_follow": false,
+                        "type": "action"
                     }
                 ]
             },
@@ -92,7 +114,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy;2021 Bitdomain"
+        "content": "&copy;2021 Above Computing Inc."
     },
     "domain": "https://bitdomain.com",
     "favicon": "images/favicon (1).ico"

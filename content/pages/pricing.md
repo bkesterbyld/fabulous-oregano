@@ -14,7 +14,7 @@ sections:
           *   1 bitdomain
           *   10 data sets
           *   2 users
-          *   100K rows
+          *   50K rows
           *   Rolling 30 day retention
         actions:
           - label: Learn More

@@ -46,6 +46,11 @@
                 "content": "secure cloud data sharing\n"
             },
             {
+                "image_alt": "lorem-ipsum",
+                "image_url": "lorem-ipsum",
+                "type": "footer_text"
+            },
+            {
                 "type": "footer_nav",
                 "title": "Company",
                 "nav_links": [

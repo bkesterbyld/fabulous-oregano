@@ -3,7 +3,7 @@ title: Features
 sections:
   - section_id: features
     type: section_content
-    background: gray
+    background: white
     image_alt: Bitdomain platform
     title: 'Easy, Secure and Infinitely Scalable'
     content: >

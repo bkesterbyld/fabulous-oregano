@@ -9,7 +9,7 @@ sections:
     content: >
       Bitdomains are next generation virtualized computing spaces that operates
       independently of the server infrastructure they run against, abstracting
-      away your data from physical storage.  From a single bitdomain, you can
+      away data from physical storage.  From a single bitdomain, you can
       replicate and segment data down to granular levels to give internal and
       external data consumers only what they need—nothing more, nothing less.
 

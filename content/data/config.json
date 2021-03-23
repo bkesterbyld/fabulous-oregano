@@ -40,7 +40,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/bdlogo4-white.png",
+                "image": "images/bitdomain-white-10.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "zero trust cloud data DMZ\n"

@@ -27,7 +27,7 @@ sections:
           *   2 bitdomains
           *   20 data sets
           *   5 users
-          *   500K rows
+          *   250K rows
           *   60 day retention
           *   Limited Support
         highlight: true

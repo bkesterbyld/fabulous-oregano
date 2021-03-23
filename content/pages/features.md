@@ -8,10 +8,10 @@ sections:
     title: 'Easy, Secure and Infinitely Scalable'
     content: >
       Bitdomains are next generation virtualized computing spaces that operates
-      independently of the server infrastructure they run against. From a single
-      bitdomain, you can replicate and segment data down to granular levels to
-      give internal and external data consumers only what they need—nothing
-      more, nothing less.
+      independently of the server infrastructure they run against, abstracting
+      away your data from physical storage.  From a single bitdomain, you can
+      replicate and segment data down to granular levels to give internal and
+      external data consumers only what they need—nothing more, nothing less.
 
 
       Bitdomains blend several key features into a holistic, secure approach to
@@ -24,7 +24,7 @@ sections:
       Create no code, fully relational data models that support structured,
       unstructured and file data. Bitdomains are ACID-compliant for
       transactional data and we put everything in mature and reliable SQL, NoSQL
-      and object stores behind the scenes.
+      and object stores behind the scenes across various cloud providers.
 
 
       **Data management with a visual programming interface**

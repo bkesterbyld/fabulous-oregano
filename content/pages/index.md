@@ -56,10 +56,10 @@ sections:
         content: >
           Data sets can be replicated for different data consumers and put
           wherever needed globally. Each consumer gets unique API key access,
-          browser access or both. You can select from granular security options
-          including controlling access by data sets, fields, logic agents and by
-          time windows. API keys can even be granted for a specific piece of
-          data.
+          browser access or both. Granular security options include controlling
+          access by data subsets, fields and by time windows. API keys can even
+          be granted for a specific piece of data or to invoke logic and data
+          manipulations.
         actions:
           - label: Learn More
             url: /features

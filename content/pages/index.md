@@ -55,9 +55,10 @@ sections:
         image_alt: App user profile preview
         content: >
           Data sets can be replicated for different data consumers and put
-          wherever needed globally. You can select from granular API key options
+          wherever needed globally. Each consumer gets unique API key access,
+          browser access or both. You can select from granular security options
           including controlling access by data sets, fields, logic agents and by
-          time windows. You can even grant an API key for a specific piece of
+          time windows. API keys can even be granted for a specific piece of
           data.
         actions:
           - label: Learn More

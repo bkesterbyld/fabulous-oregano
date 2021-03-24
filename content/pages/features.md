@@ -74,7 +74,7 @@ sections:
       Bitdomain platform admins can manage unlimited bitdomains for their
       organization and enjoy full control and monitoring of all data.
     actions: []
-    image: images/featuress.png
+    image: images/features-go.png
   - section_id: call-to-action
     type: section_cta
     title: Ready to learn more?

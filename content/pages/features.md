@@ -68,6 +68,14 @@ sections:
       permissions
 
 
+      **Developers can directly power applications off the API**
+
+
+      Bitdomains can act as a full-featured backend for your data consumers,
+      they just add their own business logic to the data you share with the
+      native toolset
+
+
       **Centralized cataloging, visibility and control**
 
 

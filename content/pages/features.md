@@ -70,7 +70,7 @@ sections:
       permissions
 
 
-      **Developers can directly power applications off the API**
+      **Developers can directly power applications off your custom APIs**
 
 
       Bitdomains can act as a full-featured backend for your data consumers,

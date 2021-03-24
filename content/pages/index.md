@@ -28,7 +28,7 @@ sections:
           code tools. Then transfer data into a Bitdomain via API or our
           integration platform partners. Behind the scenes, we put this
           intermediate data in safe and economical SQL, NoSQL and object stores
-          in a multicloud network
+          in a multicloud network.
         actions:
           - label: Learn More
             url: /features
@@ -55,9 +55,10 @@ sections:
         image_alt: App user profile preview
         content: >
           Data sets can be replicated for different data consumers and put
-          wherever needed globally. You can select from granular API key options
+          wherever needed globally. Each consumer gets unique API key access,
+          browser access or both. You can select from granular security options
           including controlling access by data sets, fields, logic agents and by
-          time windows. You can even grant an API key for a specific piece of
+          time windows. API keys can even be granted for a specific piece of
           data.
         actions:
           - label: Learn More
@@ -66,7 +67,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: 'Zero trust, real time cloud data sharing'
+    title: Zero trust cloud data exchange
   - section_id: call-to-action
     type: section_cta
     title: Learn about our solutions

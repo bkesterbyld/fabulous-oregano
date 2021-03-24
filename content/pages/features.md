@@ -9,13 +9,15 @@ sections:
     content: >
       Bitdomains are next generation virtualized computing spaces that operates
       independently of the server infrastructure they run against, abstracting
-      away data from physical storage.  From a single bitdomain, you can
-      replicate and segment data down to granular levels to give internal and
-      external data consumers only what they need—nothing more, nothing less.
+      away data from physical storage and networks that create a larger attack
+      surface.
 
 
-      Bitdomains blend several key features into a holistic, secure approach to
-      internal and external data sharing:
+      From a single bitdomain, you can replicate and segment data down to
+      granular levels and give internal and external data consumers only what
+      they need—nothing more, nothing less. Bitdomains blend several key
+      features into a holistic, secure approach to internal and external data
+      exchange:
 
 
       **Multidata modeling and mappings to source systems**
@@ -52,7 +54,7 @@ sections:
       users and clients
 
 
-      **Unmatched, granular API access control**
+      **Granular API access control**
 
 
       The system constantly generates unique API identifiers for data tables,
@@ -68,12 +70,12 @@ sections:
       permissions
 
 
-      **Developers can directly power applications off the API**
+      **Developers can directly power applications off your custom APIs**
 
 
       Bitdomains can act as a full-featured backend for your data consumers,
-      they just add their own business logic to the data you share with the
-      native toolset
+      they just add their own business logic to the data you share via the
+      native toolset.
 
 
       **Centralized cataloging, monitoring and control**

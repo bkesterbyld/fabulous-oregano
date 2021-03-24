@@ -83,7 +83,7 @@ sections:
         icon: arrow-right
         icon_position: right
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Get a Demo
     subtitle: lorem-ipsum
     actions: []
     type: section_cta

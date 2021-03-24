@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/bitdomain-explain1.png
+    image: images/bitdomain-explain2.png
     image_alt: App preview
     title: Democratize real time data without worry
     content: >

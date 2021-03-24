@@ -16,21 +16,21 @@
     blockquote,
     .underline:after,
     .card.highlight {
-      border-color: $color-primary;
+      border-color: #DB5E11;
     }
 
     .button {
-      background: $color-primary;
-      border-color: $color-primary;
+      background: #DB5E11;
+      border-color: #DB5E11;
 
       &.secondary {
         background: transparent;
-        color: $color-primary;
+        color: #DB5E11;
       }
     }
 
     .icon-plus {
-      background: $color-primary;
+      background: #DB5E11y;
     }
 
     .review-text {

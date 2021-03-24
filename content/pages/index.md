@@ -84,7 +84,7 @@ sections:
         icon_position: right
   - section_id: lorem-ipsum
     title: Get a Demo
-    subtitle: Takes 12
+    subtitle: Takes 10 minutes
     actions: []
     type: section_cta
 seo:

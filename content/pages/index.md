@@ -66,7 +66,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: 'Zero trust, real time cloud data sharing'
+    title: 'Zero trust, real time cloud data exchange'
   - section_id: call-to-action
     type: section_cta
     title: Learn about our solutions

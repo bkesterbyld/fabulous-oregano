@@ -76,7 +76,7 @@ sections:
       native toolset
 
 
-      **Centralized cataloging, visibility and control**
+      **Centralized cataloging, monitoring and control**
 
 
       Bitdomain platform admins can manage unlimited bitdomains for their

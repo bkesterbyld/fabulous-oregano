@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/bitdomain-explain1.png
     image_alt: App preview
-    title: Democratize real time data without worry
+    title: Democratize and monetize real time data without worry
     content: >
       Collaborate with internal teams and external parties without exposing your
       production data, APIs or DB credentials to any person or system

@@ -85,7 +85,16 @@ sections:
   - section_id: lorem-ipsum
     title: Get a Demo
     subtitle: Takes 10 minutes
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
     type: section_cta
 seo:
   title: 'bitdomain - zero trust, secure cloud data exchange'

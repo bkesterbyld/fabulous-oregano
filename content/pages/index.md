@@ -28,8 +28,8 @@ sections:
           code tools. Then transfer data into a Bitdomain via API or our
           integration platform partners. Behind the scenes, we put this
           intermediate data in safe and economical SQL, NoSQL and object stores
-          in a multicloud network which can stay there for as little or as long
-          as you'd need.
+          in a multicloud network. You can keep the data in a bitdomain for as
+          long as you need.
         actions:
           - label: Learn More
             url: /features

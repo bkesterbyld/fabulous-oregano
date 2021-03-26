@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    subtitle: 'Setup with no code tools, be up and running in minutes'
+    subtitle: Bitdomains are setup with no code tools and ready in minutes
     features:
       - title: Publish and Mix Data Between Parties
         image: images/publish.png
@@ -66,7 +66,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: secure cloud storage and processing spaces with granular access control
+    title: cloud storage and processing spaces with granular APIs and security
   - section_id: call-to-action
     type: section_cta
     title: Learn about our solutions

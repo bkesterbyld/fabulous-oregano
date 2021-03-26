@@ -16,9 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    subtitle: >-
-      Bitdomains are secure cloud storage and processing spaces that provide
-      granular API and browser data access
+    subtitle: 'Setup with no code tools, be up and running in minutes'
     features:
       - title: Publish and Mix Data Between Parties
         image: images/publish.png
@@ -68,9 +66,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: >-
-      Setup an API that syndicates disparate data to different parties in
-      minutes
+    title: secure cloud storage and processing spaces with granular access control
   - section_id: call-to-action
     type: section_cta
     title: Learn about our solutions

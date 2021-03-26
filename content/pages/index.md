@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/bitdomain-explain2.png
     image_alt: App preview
-    title: Democratize real time data without worry
+    title: 'Secure, API-based data exchange'
     content: >
       Collaborate with internal teams and external parties without exposing your
       production data, APIs or DB credentials to any person or system
@@ -67,7 +67,9 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: Zero trust cloud data exchange
+    title: >-
+      Setup an API that syndicates disparate data to different parties in
+      minutes
   - section_id: call-to-action
     type: section_cta
     title: Learn about our solutions
@@ -82,6 +84,12 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    reviews: []
+    type: section_reviews
 seo:
   title: 'bitdomain - zero trust, secure cloud data exchange'
   description: >-

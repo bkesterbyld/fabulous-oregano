@@ -68,8 +68,8 @@ sections:
             icon: arrow-right
             icon_position: right
     title: >-
-      Bitdomains are secure cloud storage and processing spaces that provide
-      granular API and browser data access
+      Setup an API that syndicates disparate data to different parties in
+      minutes
   - section_id: call-to-action
     type: section_cta
     title: Learn about our solutions

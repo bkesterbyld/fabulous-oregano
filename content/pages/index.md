@@ -66,7 +66,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: Bitdomains are cloud storage and processing spaces with granular security
+    title: cloud storage and processing spaces with granular APIs
   - section_id: call-to-action
     type: section_cta
     title: Learn about our solutions

@@ -68,9 +68,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    title: >-
-      Setup an API that syndicates disparate data to different parties in
-      minutes
+    title: secure cloud storage and processing spaces with granular access control
   - section_id: call-to-action
     type: section_cta
     title: Learn about our solutions

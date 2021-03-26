@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    subtitle: 'Setup with no code tools, be up and running in minutes'
+    subtitle: Bitdomains are setup with no code tools and ready in minutes
     features:
       - title: Publish and Mix Data Between Parties
         image: images/publish.png
